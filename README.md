@@ -21,11 +21,12 @@ For Frequently Asked Questions regarding Indeed's data, click [here](https://www
 ## Data Schema
  
 The CSV file contains the following variables:
-jobcountry: two-letter code of the country of the Indeed site where the job was posted
-country: country name
-month: the month when the job was first posted
-posted_wage_growth_yoy: the year-on-year change in posted wages calculated using the methodology described above
-posted_wage_growth_yoy_3moavg: the 3-month lagged moving average of posted_wage_growth_yoy, which we use as our headline measure of growth
+
+- jobcountry: two-letter code of the country of the Indeed site where the job was posted
+- country: country name
+- month: the month when the job was first posted
+- posted_wage_growth_yoy: the year-on-year change in posted wages calculated using the methodology described above
+- posted_wage_growth_yoy_3moavg: the 3-month lagged moving average of posted_wage_growth_yoy, which we use as our headline measure of growth
  
 ## Indeed Hiring Lab
  
