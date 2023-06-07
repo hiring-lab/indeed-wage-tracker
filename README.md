@@ -1,5 +1,7 @@
 # Indeed Wage Tracker
  
+**Note**: May 2023 data marks a new release of the Indeed Wage Tracker, a measure of wage growth in job postings in eight countries. Indeed Hiring Lab is committed to delivering reliable, trustworthy, and comprehensive data and analysis of the global labor market. An upgrade to our internal salary data platform and enhancements to the ways Indeed classifies job titles in certain countries over the past several months delayed our usual publication of the wage tracker. These efforts, aimed at improving the quality of the data, led to small changes in the historical wage growth series compared with previously published data, but did not impact the fundamental trends.
+
 The Indeed Wage Tracker measures growth in wages advertised in job postings to help policymakers, labor market analysts, employers, and workers understand wage trends quickly and confidently.
  
 We currently publish country-level trends for 8 countries: the UK, the US, and six euro-area countries — France, Germany, Ireland, Italy, the Netherlands, and Spain — that jointly account for over 80% of euro-area employment.
