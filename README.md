@@ -4,7 +4,7 @@
 
 The Indeed Wage Tracker measures growth in wages advertised in job postings to help policymakers, labor market analysts, employers, and workers understand wage trends quickly and confidently.
  
-We currently publish country-level trends for 8 countries: the UK, the US, and six euro-area countries — France, Germany, Ireland, Italy, the Netherlands, and Spain — that jointly account for over 80% of euro-area employment.
+We currently publish country-level trends for 9 countries: the UK, the US, Canada, and six euro-area countries — France, Germany, Ireland, Italy, the Netherlands, and Spain — that jointly account for over 80% of euro-area employment.
  
 We will add more countries over time. We also plan to add data on wage growth in individual occupational categories, as we do in our [Job Posting Index](https://github.com/hiring-lab/job_postings_tracker).
  
