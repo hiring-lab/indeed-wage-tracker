@@ -2,86 +2,87 @@ jobcountry,country,sector,month,n_obs,posted_wage_growth_yoy,posted_wage_growth_
 US,United States,Administrative Assistance,Jan-19,11452,0.04,NA
 US,United States,Administrative Assistance,Feb-19,10776,0.044731145,NA
 US,United States,Administrative Assistance,Mar-19,14300,0.038461538,0.041064228
-US,United States,Administrative Assistance,Apr-19,14170,0.032816913,0.038669865
-US,United States,Administrative Assistance,May-19,15521,0.041666667,0.037648373
-US,United States,Administrative Assistance,Jun-19,13836,0.030857663,0.035113748
-US,United States,Administrative Assistance,Jul-19,12772,0.027575866,0.033366732
-US,United States,Administrative Assistance,Aug-19,15338,0.034482759,0.030972096
+US,United States,Administrative Assistance,Apr-19,14170,0.032891973,0.038694885
+US,United States,Administrative Assistance,May-19,15524,0.041666667,0.037673393
+US,United States,Administrative Assistance,Jun-19,13836,0.030857663,0.035138768
+US,United States,Administrative Assistance,Jul-19,12771,0.027575866,0.033366732
+US,United States,Administrative Assistance,Aug-19,15337,0.034482759,0.030972096
 US,United States,Administrative Assistance,Sep-19,11364,0.038461538,0.033506721
-US,United States,Administrative Assistance,Oct-19,13660,0.029161957,0.034035418
+US,United States,Administrative Assistance,Oct-19,13659,0.029161957,0.034035418
 US,United States,Administrative Assistance,Nov-19,11227,0.034482759,0.034035418
-US,United States,Administrative Assistance,Dec-19,9788,0.024590164,0.029411626
-US,United States,Administrative Assistance,Jan-20,17070,0.033333333,0.030802085
-US,United States,Administrative Assistance,Feb-20,16731,0.023255814,0.02705977
+US,United States,Administrative Assistance,Dec-19,9789,0.024635987,0.029426901
+US,United States,Administrative Assistance,Jan-20,17070,0.033333333,0.03081736
+US,United States,Administrative Assistance,Feb-20,16731,0.023255814,0.027075045
 US,United States,Administrative Assistance,Mar-20,11917,0.040462428,0.032350525
-US,United States,Administrative Assistance,Apr-20,6166,0.050423729,0.038047324
-US,United States,Administrative Assistance,May-20,13282,0.032258065,0.041048074
-US,United States,Administrative Assistance,Jun-20,17052,0.02821705,0.036966281
+US,United States,Administrative Assistance,Apr-20,6167,0.050847458,0.038188566
+US,United States,Administrative Assistance,May-20,13282,0.032258065,0.041189317
+US,United States,Administrative Assistance,Jun-20,17052,0.02821705,0.037107524
 US,United States,Administrative Assistance,Jul-20,19698,0.03125,0.030575038
-US,United States,Administrative Assistance,Aug-20,19983,0.039487024,0.032984691
-US,United States,Administrative Assistance,Sep-20,19968,0.032786885,0.03450797
-US,United States,Administrative Assistance,Oct-20,21742,0.035714286,0.035996065
+US,United States,Administrative Assistance,Aug-20,19981,0.039370079,0.032945709
+US,United States,Administrative Assistance,Sep-20,19968,0.032786885,0.034468988
+US,United States,Administrative Assistance,Oct-20,21741,0.035714286,0.035957083
 US,United States,Administrative Assistance,Nov-20,15803,0.035401003,0.034634058
-US,United States,Administrative Assistance,Dec-20,15452,0.033520599,0.034878629
-US,United States,Administrative Assistance,Jan-21,24125,0.040268456,0.036396686
-US,United States,Administrative Assistance,Feb-21,24727,0.05,0.041263019
-US,United States,Administrative Assistance,Mar-21,31318,0.037037037,0.042435164
-US,United States,Administrative Assistance,Apr-21,28666,0.045409976,0.044149004
-US,United States,Administrative Assistance,May-21,30109,0.066666667,0.04970456
-US,United States,Administrative Assistance,Jun-21,31766,0.076923077,0.062999906
-US,United States,Administrative Assistance,Jul-21,32884,0.071428571,0.071672772
-US,United States,Administrative Assistance,Aug-21,30365,0.071428571,0.073260073
-US,United States,Administrative Assistance,Sep-21,29420,0.081081081,0.074646075
-US,United States,Administrative Assistance,Oct-21,29734,0.086956522,0.079822058
-US,United States,Administrative Assistance,Nov-21,24365,0.088038211,0.085358605
-US,United States,Administrative Assistance,Dec-21,25384,0.085714286,0.086903006
-US,United States,Administrative Assistance,Jan-22,30691,0.090909091,0.088220529
-US,United States,Administrative Assistance,Feb-22,30845,0.085714286,0.087445887
-US,United States,Administrative Assistance,Mar-22,40367,0.088235294,0.088286224
+US,United States,Administrative Assistance,Dec-20,15457,0.033333333,0.034816207
+US,United States,Administrative Assistance,Jan-21,24125,0.040134228,0.036289521
+US,United States,Administrative Assistance,Feb-21,24727,0.05,0.041155854
+US,United States,Administrative Assistance,Mar-21,31319,0.037037037,0.042390422
+US,United States,Administrative Assistance,Apr-21,28665,0.045373738,0.044136925
+US,United States,Administrative Assistance,May-21,30109,0.066666667,0.049692481
+US,United States,Administrative Assistance,Jun-21,31767,0.076923077,0.062987827
+US,United States,Administrative Assistance,Jul-21,32883,0.071428571,0.071672772
+US,United States,Administrative Assistance,Aug-21,30366,0.071428571,0.073260073
+US,United States,Administrative Assistance,Sep-21,29419,0.081081081,0.074646075
+US,United States,Administrative Assistance,Oct-21,29733,0.086956522,0.079822058
+US,United States,Administrative Assistance,Nov-21,24364,0.0879137,0.085317101
+US,United States,Administrative Assistance,Dec-21,25378,0.085714286,0.086861502
+US,United States,Administrative Assistance,Jan-22,30691,0.090909091,0.088179025
+US,United States,Administrative Assistance,Feb-22,30842,0.085714286,0.087445887
+US,United States,Administrative Assistance,Mar-22,40366,0.088235294,0.088286224
 US,United States,Administrative Assistance,Apr-22,38061,0.088235294,0.087394958
-US,United States,Administrative Assistance,May-22,36331,0.085714286,0.087394958
-US,United States,Administrative Assistance,Jun-22,37453,0.075,0.082983193
-US,United States,Administrative Assistance,Jul-22,47674,0.075937418,0.078883901
-US,United States,Administrative Assistance,Aug-22,58040,0.069444444,0.073460621
-US,United States,Administrative Assistance,Sep-22,50202,0.069928942,0.071770268
-US,United States,Administrative Assistance,Oct-22,40667,0.068965517,0.069446301
-US,United States,Administrative Assistance,Nov-22,41730,0.061258586,0.066717682
-US,United States,Administrative Assistance,Dec-22,39919,0.058333333,0.062852479
-US,United States,Administrative Assistance,Jan-23,50210,0.060563776,0.060051898
+US,United States,Administrative Assistance,May-22,36332,0.085714286,0.087394958
+US,United States,Administrative Assistance,Jun-22,37453,0.074813433,0.082921004
+US,United States,Administrative Assistance,Jul-22,47675,0.076086957,0.078871558
+US,United States,Administrative Assistance,Aug-22,58039,0.069301669,0.073400686
+US,United States,Administrative Assistance,Sep-22,50204,0.069928942,0.071772522
+US,United States,Administrative Assistance,Oct-22,40667,0.068965517,0.069398709
+US,United States,Administrative Assistance,Nov-22,41732,0.061292683,0.066729047
+US,United States,Administrative Assistance,Dec-22,39919,0.058333333,0.062863845
+US,United States,Administrative Assistance,Jan-23,50210,0.060563776,0.060063264
 US,United States,Administrative Assistance,Feb-23,47772,0.062017411,0.06030484
-US,United States,Administrative Assistance,Mar-23,59077,0.061464405,0.06134853
-US,United States,Administrative Assistance,Apr-23,53939,0.055323142,0.059601652
-US,United States,Administrative Assistance,May-23,54369,0.052631579,0.056473042
-US,United States,Administrative Assistance,Jun-23,53436,0.052631579,0.053528766
-US,United States,Administrative Assistance,Jul-23,53322,0.05,0.051754386
-US,United States,Administrative Assistance,Aug-23,62036,0.05,0.050877193
+US,United States,Administrative Assistance,Mar-23,59072,0.061338502,0.061306563
+US,United States,Administrative Assistance,Apr-23,53936,0.055312955,0.059556289
+US,United States,Administrative Assistance,May-23,54367,0.052631579,0.056427679
+US,United States,Administrative Assistance,Jun-23,53435,0.052631579,0.053525371
+US,United States,Administrative Assistance,Jul-23,53323,0.05,0.051754386
+US,United States,Administrative Assistance,Aug-23,62033,0.05,0.050877193
 US,United States,Administrative Assistance,Sep-23,52721,0.048192771,0.04939759
-US,United States,Administrative Assistance,Oct-23,49299,0.045403254999999997,0.047865342
-US,United States,Administrative Assistance,Nov-23,43728,0.043478261,0.045691429
-US,United States,Administrative Assistance,Dec-23,38554,0.042126649,0.043669388
-US,United States,Administrative Assistance,Jan-24,52222,0.040540541,0.042048484
-US,United States,Administrative Assistance,Feb-24,50415,0.037974684,0.040213958
-US,United States,Administrative Assistance,Mar-24,53177,0.038732408,0.039082544
-US,United States,Administrative Assistance,Apr-24,50200,0.040279276,0.038995456
-US,United States,Administrative Assistance,May-24,50971,0.038961039,0.039324241
-US,United States,Administrative Assistance,Jun-24,48291,0.039583339,0.039607885
-US,United States,Administrative Assistance,Jul-24,48036,0.046153846,0.041566075
-US,United States,Administrative Assistance,Aug-24,53980,0.038961039,0.041566075
-US,United States,Administrative Assistance,Sep-24,47702,0.043103448,0.042739444
-US,United States,Administrative Assistance,Oct-24,48451,0.044444444,0.042169644
-US,United States,Administrative Assistance,Nov-24,38609,0.048780488,0.045442794
-US,United States,Administrative Assistance,Dec-24,35766,0.045454545,0.046226493
-US,United States,Administrative Assistance,Jan-25,47586,0.045454545,0.046563193
-US,United States,Administrative Assistance,Feb-25,41537,0.042867033,0.044592041
-US,United States,Administrative Assistance,Mar-25,45382,0.032258065,0.040193214
-US,United States,Administrative Assistance,Apr-25,44116,0.030025289,0.035050129
-US,United States,Administrative Assistance,May-25,42757,0.032791734,0.031691696
-US,United States,Administrative Assistance,Jun-25,38457,0.031526702,0.031447908
-US,United States,Administrative Assistance,Jul-25,43729,0.029027637,0.031115358
-US,United States,Administrative Assistance,Aug-25,44270,0.03125,0.030601446
-US,United States,Administrative Assistance,Sep-25,37928,0.03125,0.030509212
-US,United States,Administrative Assistance,Oct-25,41750,0.03010393,0.030867977
-US,United States,Administrative Assistance,Nov-25,31901,0.029996311,0.03045008
+US,United States,Administrative Assistance,Oct-23,49297,0.045403254999999997,0.047865342
+US,United States,Administrative Assistance,Nov-23,43731,0.043478261,0.045691429
+US,United States,Administrative Assistance,Dec-23,38554,0.042253521,0.043711679
+US,United States,Administrative Assistance,Jan-24,52223,0.040540541,0.042090774
+US,United States,Administrative Assistance,Feb-24,50415,0.037974684,0.040256248
+US,United States,Administrative Assistance,Mar-24,53178,0.038782051,0.039099092
+US,United States,Administrative Assistance,Apr-24,50202,0.040312804,0.03902318
+US,United States,Administrative Assistance,May-24,50968,0.039027002,0.039373953
+US,United States,Administrative Assistance,Jun-24,48289,0.039417805,0.039585871
+US,United States,Administrative Assistance,Jul-24,48035,0.046153846,0.041532885
+US,United States,Administrative Assistance,Aug-24,53982,0.038961039,0.041510897
+US,United States,Administrative Assistance,Sep-24,47705,0.043125926,0.042746937
+US,United States,Administrative Assistance,Oct-24,48456,0.044347846,0.042144937
+US,United States,Administrative Assistance,Nov-24,38611,0.048780488,0.045418087
+US,United States,Administrative Assistance,Dec-24,35771,0.045454545,0.046194293
+US,United States,Administrative Assistance,Jan-25,47585,0.0455279,0.046587644
+US,United States,Administrative Assistance,Feb-25,41543,0.042876923,0.044619789
+US,United States,Administrative Assistance,Mar-25,45384,0.03240292,0.040269248
+US,United States,Administrative Assistance,Apr-25,44115,0.030017953,0.035099266
+US,United States,Administrative Assistance,May-25,42760,0.032754142,0.031725005
+US,United States,Administrative Assistance,Jun-25,38457,0.032258065,0.03167672
+US,United States,Administrative Assistance,Jul-25,43723,0.028985507,0.031332571
+US,United States,Administrative Assistance,Aug-25,44268,0.03125,0.030831191
+US,United States,Administrative Assistance,Sep-25,37949,0.03125,0.030495169
+US,United States,Administrative Assistance,Oct-25,41771,0.030215631,0.03090521
+US,United States,Administrative Assistance,Nov-25,31939,0.030010471,0.030492034
+US,United States,Administrative Assistance,Dec-25,29663,0.022727273,0.027651125
 US,United States,Personal Care & Home Health,Jan-19,2991,0.036250019,NA
 US,United States,Personal Care & Home Health,Feb-19,3042,0.038461538,NA
 US,United States,Personal Care & Home Health,Mar-19,3710,0.022727273,0.03247961
@@ -117,8 +118,8 @@ US,United States,Personal Care & Home Health,Aug-21,12006,0.08733791,0.090250744
 US,United States,Personal Care & Home Health,Sep-21,11951,0.10484312,0.096704561
 US,United States,Personal Care & Home Health,Oct-21,12186,0.109062833,0.100414621
 US,United States,Personal Care & Home Health,Nov-21,10713,0.109090909,0.107665621
-US,United States,Personal Care & Home Health,Dec-21,12402,0.122749655,0.113634466
-US,United States,Personal Care & Home Health,Jan-22,12594,0.111111111,0.114317225
+US,United States,Personal Care & Home Health,Dec-21,12403,0.122749655,0.113634466
+US,United States,Personal Care & Home Health,Jan-22,12595,0.111111111,0.114317225
 US,United States,Personal Care & Home Health,Feb-22,12716,0.111859827,0.115240198
 US,United States,Personal Care & Home Health,Mar-22,15827,0.108910891,0.110627276
 US,United States,Personal Care & Home Health,Apr-22,15148,0.118581307,0.113117342
@@ -134,37 +135,38 @@ US,United States,Personal Care & Home Health,Jan-23,25254,0.080645161,0.07897023
 US,United States,Personal Care & Home Health,Feb-23,25809,0.076923077,0.077232753
 US,United States,Personal Care & Home Health,Mar-23,31113,0.071428571,0.07633227
 US,United States,Personal Care & Home Health,Apr-23,28739,0.066666667,0.071672772
-US,United States,Personal Care & Home Health,May-23,28339,0.056648087,0.064914442
-US,United States,Personal Care & Home Health,Jun-23,28328,0.05,0.057771585
-US,United States,Personal Care & Home Health,Jul-23,28041,0.035087719,0.047245269
-US,United States,Personal Care & Home Health,Aug-23,32867,0.044863703,0.043317141
+US,United States,Personal Care & Home Health,May-23,28330,0.05662593,0.064907056
+US,United States,Personal Care & Home Health,Jun-23,28328,0.05,0.057764199
+US,United States,Personal Care & Home Health,Jul-23,28041,0.035087719,0.047237883
+US,United States,Personal Care & Home Health,Aug-23,32866,0.044863703,0.043317141
 US,United States,Personal Care & Home Health,Sep-23,30310,0.0625,0.047483808
-US,United States,Personal Care & Home Health,Oct-23,30742,0.049180328,0.052181344
-US,United States,Personal Care & Home Health,Nov-23,29402,0.0390625,0.050247609
+US,United States,Personal Care & Home Health,Oct-23,30741,0.049180328,0.052181344
+US,United States,Personal Care & Home Health,Nov-23,29401,0.0390625,0.050247609
 US,United States,Personal Care & Home Health,Dec-23,30105,0.04127892,0.043173916
 US,United States,Personal Care & Home Health,Jan-24,32254,0.030595807,0.036979076
 US,United States,Personal Care & Home Health,Feb-24,31729,0.032258065,0.034710931
-US,United States,Personal Care & Home Health,Mar-24,35872,0.033333333,0.032062402
+US,United States,Personal Care & Home Health,Mar-24,35873,0.033333333,0.032062402
 US,United States,Personal Care & Home Health,Apr-24,32709,0.032258065,0.032616487
 US,United States,Personal Care & Home Health,May-24,32326,0.037037037,0.034209478
-US,United States,Personal Care & Home Health,Jun-24,28058,0.034482759,0.03459262
+US,United States,Personal Care & Home Health,Jun-24,28060,0.034482759,0.03459262
 US,United States,Personal Care & Home Health,Jul-24,27246,0.037037037,0.036185611
 US,United States,Personal Care & Home Health,Aug-24,28414,0.03125,0.034256599
-US,United States,Personal Care & Home Health,Sep-24,27104,0.032258065,0.033515034
-US,United States,Personal Care & Home Health,Oct-24,28794,0.033333333,0.032280466
-US,United States,Personal Care & Home Health,Nov-24,25597,0.029857398,0.031816265
-US,United States,Personal Care & Home Health,Dec-24,23099,0.03030303,0.031164587
-US,United States,Personal Care & Home Health,Jan-25,27088,0.037037037,0.032399155
-US,United States,Personal Care & Home Health,Feb-25,24609,0.031647156,0.032995741
-US,United States,Personal Care & Home Health,Mar-25,27379,0.03502989,0.034571361
-US,United States,Personal Care & Home Health,Apr-25,26052,0.033333333,0.033336793
-US,United States,Personal Care & Home Health,May-25,25011,0.033333333,0.033898852
-US,United States,Personal Care & Home Health,Jun-25,22628,0.033333333,0.033333333
-US,United States,Personal Care & Home Health,Jul-25,24637,0.03030303,0.032323232
-US,United States,Personal Care & Home Health,Aug-25,26578,0.03030303,0.031313131
-US,United States,Personal Care & Home Health,Sep-25,21305,0.034482759,0.031696273
-US,United States,Personal Care & Home Health,Oct-25,24803,0.031754032,0.03217994
-US,United States,Personal Care & Home Health,Nov-25,21038,0.031914894,0.032717228
+US,United States,Personal Care & Home Health,Sep-24,27111,0.032258065,0.033515034
+US,United States,Personal Care & Home Health,Oct-24,28793,0.033333333,0.032280466
+US,United States,Personal Care & Home Health,Nov-24,25599,0.029857398,0.031816265
+US,United States,Personal Care & Home Health,Dec-24,23098,0.03125,0.031480244
+US,United States,Personal Care & Home Health,Jan-25,27087,0.037037037,0.032714812
+US,United States,Personal Care & Home Health,Feb-25,24612,0.03125,0.033179012
+US,United States,Personal Care & Home Health,Mar-25,27380,0.035318197,0.034535078
+US,United States,Personal Care & Home Health,Apr-25,26056,0.033333333,0.03330051
+US,United States,Personal Care & Home Health,May-25,25007,0.033333333,0.033994954
+US,United States,Personal Care & Home Health,Jun-25,22637,0.033333333,0.033333333
+US,United States,Personal Care & Home Health,Jul-25,24639,0.03030303,0.032323232
+US,United States,Personal Care & Home Health,Aug-25,26590,0.03030303,0.031313131
+US,United States,Personal Care & Home Health,Sep-25,21341,0.034482759,0.031696273
+US,United States,Personal Care & Home Health,Oct-25,24787,0.032038112,0.032274634
+US,United States,Personal Care & Home Health,Nov-25,21059,0.033010788,0.033177219
+US,United States,Personal Care & Home Health,Dec-25,20894,0.029411765,0.031486888
 US,United States,Childcare,Jan-19,3027,0.042490698,NA
 US,United States,Childcare,Feb-19,2927,0.020204082,NA
 US,United States,Childcare,Mar-19,3466,0.04,0.034231593
@@ -172,7 +174,7 @@ US,United States,Childcare,Apr-19,3449,0.044466403,0.034890162
 US,United States,Childcare,May-19,3148,0.048809524,0.044425309
 US,United States,Childcare,Jun-19,2934,0.039886364,0.04438743
 US,United States,Childcare,Jul-19,3674,0.032904346,0.040533411
-US,United States,Childcare,Aug-19,4466,0.059031183,0.043940631
+US,United States,Childcare,Aug-19,4467,0.059031183,0.043940631
 US,United States,Childcare,Sep-19,3218,0.027046784,0.039660771
 US,United States,Childcare,Oct-19,3597,0.051643192,0.045907053
 US,United States,Childcare,Nov-19,2812,0.017424242,0.032038073
@@ -190,69 +192,70 @@ US,United States,Childcare,Oct-20,5864,0.022060032,0.032807892
 US,United States,Childcare,Nov-20,4003,0.037037037,0.033032356
 US,United States,Childcare,Dec-20,4125,0.02716736,0.02875481
 US,United States,Childcare,Jan-21,6320,0.05,0.038068132
-US,United States,Childcare,Feb-21,6356,0.067424242,0.048197201
-US,United States,Childcare,Mar-21,8467,0.049999994,0.055808079
+US,United States,Childcare,Feb-21,6357,0.067424242,0.048197201
+US,United States,Childcare,Mar-21,8468,0.049999994,0.055808079
 US,United States,Childcare,Apr-21,7068,0.037974684,0.05179964
 US,United States,Childcare,May-21,6907,0.0885919,0.058855526
 US,United States,Childcare,Jun-21,7490,0.107417582,0.077994722
 US,United States,Childcare,Jul-21,9433,0.101344985,0.099118156
 US,United States,Childcare,Aug-21,8319,0.096006144,0.101589571
 US,United States,Childcare,Sep-21,7312,0.09375,0.09703371
-US,United States,Childcare,Oct-21,7345,0.114285742,0.101347295
+US,United States,Childcare,Oct-21,7346,0.114285742,0.101347295
 US,United States,Childcare,Nov-21,6302,0.133634223,0.113889988
 US,United States,Childcare,Dec-21,6259,0.148148148,0.132022704
-US,United States,Childcare,Jan-22,7072,0.128205128,0.1366625
-US,United States,Childcare,Feb-22,7245,0.130032206,0.135461827
-US,United States,Childcare,Mar-22,10063,0.144166263,0.134134532
+US,United States,Childcare,Jan-22,7073,0.130434783,0.137405718
+US,United States,Childcare,Feb-22,7245,0.130032206,0.136205046
+US,United States,Childcare,Mar-22,10063,0.144166263,0.13487775
 US,United States,Childcare,Apr-22,9025,0.142857143,0.139018537
 US,United States,Childcare,May-22,7963,0.124419165,0.137147523
 US,United States,Childcare,Jun-22,8269,0.12,0.129092102
 US,United States,Childcare,Jul-22,13115,0.1,0.114806388
 US,United States,Childcare,Aug-22,16386,0.099789747,0.106596582
-US,United States,Childcare,Sep-22,12675,0.109591326,0.103127025
-US,United States,Childcare,Oct-22,10556,0.085714279,0.098365117
-US,United States,Childcare,Nov-22,10489,0.089804135,0.09503658
-US,United States,Childcare,Dec-22,10405,0.0625,0.079339471
-US,United States,Childcare,Jan-23,13116,0.071428571,0.074577569
-US,United States,Childcare,Feb-23,12691,0.074074074,0.069334215
+US,United States,Childcare,Sep-22,12676,0.109591326,0.103127025
+US,United States,Childcare,Oct-22,10557,0.085714279,0.098365117
+US,United States,Childcare,Nov-22,10490,0.089804135,0.09503658
+US,United States,Childcare,Dec-22,10407,0.0625,0.079339471
+US,United States,Childcare,Jan-23,13118,0.071428571,0.074577569
+US,United States,Childcare,Feb-23,12692,0.074074074,0.069334215
 US,United States,Childcare,Mar-23,15650,0.066176478,0.070559708
-US,United States,Childcare,Apr-23,13464,0.058823529,0.066358027
+US,United States,Childcare,Apr-23,13465,0.058823529,0.066358027
 US,United States,Childcare,May-23,13045,0.052667141,0.059222383
 US,United States,Childcare,Jun-23,12914,0.057692308,0.056394326
 US,United States,Childcare,Jul-23,14665,0.060283673,0.05688104
-US,United States,Childcare,Aug-23,16739,0.05,0.055991993
-US,United States,Childcare,Sep-23,13974,0.048780488,0.053021387
-US,United States,Childcare,Oct-23,13235,0.056873315,0.051884601
-US,United States,Childcare,Nov-23,11716,0.047619048,0.05109095
+US,United States,Childcare,Aug-23,16742,0.05,0.055991993
+US,United States,Childcare,Sep-23,13975,0.048348569,0.052877414
+US,United States,Childcare,Oct-23,13235,0.056873315,0.051740628
+US,United States,Childcare,Nov-23,11716,0.047619048,0.050946977
 US,United States,Childcare,Dec-23,9787,0.049180328,0.05122423
-US,United States,Childcare,Jan-24,13561,0.046511625,0.047770333
+US,United States,Childcare,Jan-24,13562,0.046511625,0.047770333
 US,United States,Childcare,Feb-24,14009,0.041666667,0.045786207
-US,United States,Childcare,Mar-24,14670,0.052177858,0.046785383
+US,United States,Childcare,Mar-24,14669,0.052177858,0.046785383
 US,United States,Childcare,Apr-24,12733,0.041381275,0.045075267
-US,United States,Childcare,May-24,11675,0.044801525,0.046120219
+US,United States,Childcare,May-24,11674,0.044801525,0.046120219
 US,United States,Childcare,Jun-24,10760,0.05,0.045394267
-US,United States,Childcare,Jul-24,12790,0.033018006,0.04260651
-US,United States,Childcare,Aug-24,13972,0.04,0.041006002
-US,United States,Childcare,Sep-24,11462,0.034948251,0.035988752
-US,United States,Childcare,Oct-24,11447,0.038098694,0.037682315
-US,United States,Childcare,Nov-24,8899,0.035714286,0.036253744
-US,United States,Childcare,Dec-24,7519,0.0625,0.04543766
+US,United States,Childcare,Jul-24,12794,0.033333333,0.042711619
+US,United States,Childcare,Aug-24,13972,0.040409834,0.041247723
+US,United States,Childcare,Sep-24,11466,0.034858235,0.036200467
+US,United States,Childcare,Oct-24,11447,0.038098694,0.037788921
+US,United States,Childcare,Nov-24,8900,0.035714286,0.036223738
+US,United States,Childcare,Dec-24,7521,0.0625,0.04543766
 US,United States,Childcare,Jan-25,10751,0.031746032,0.043320106
 US,United States,Childcare,Feb-25,9175,0.019607843,0.037951292
-US,United States,Childcare,Mar-25,9822,0.027027027,0.026126967
-US,United States,Childcare,Apr-25,9421,0.036498569,0.027711146
-US,United States,Childcare,May-25,8635,0.03030303,0.031276209
+US,United States,Childcare,Mar-25,9823,0.027027027,0.026126967
+US,United States,Childcare,Apr-25,9420,0.036498569,0.027711146
+US,United States,Childcare,May-25,8641,0.03030303,0.031276209
 US,United States,Childcare,Jun-25,8008,0.06267091,0.043157503
-US,United States,Childcare,Jul-25,10303,0.026122441,0.039698794
-US,United States,Childcare,Aug-25,9717,0.027955366,0.038916239
-US,United States,Childcare,Sep-25,7810,0.030776515,0.028284774
-US,United States,Childcare,Oct-25,8243,0.025,0.027910627
-US,United States,Childcare,Nov-25,6600,0.032258065,0.02934486
-US,United States,Construction,Jan-19,3535,0.035098522,NA
+US,United States,Childcare,Jul-25,10305,0.026169835,0.039714592
+US,United States,Childcare,Aug-25,9718,0.027955366,0.038932037
+US,United States,Childcare,Sep-25,7816,0.03125,0.0284584
+US,United States,Childcare,Oct-25,8244,0.025,0.028068455
+US,United States,Childcare,Nov-25,6601,0.032258065,0.029502688
+US,United States,Childcare,Dec-25,5941,0.03125,0.029502688
+US,United States,Construction,Jan-19,3536,0.034482759,NA
 US,United States,Construction,Feb-19,3813,0.043167702,NA
-US,United States,Construction,Mar-19,6192,0.043961353,0.040742526
-US,United States,Construction,Apr-19,7292,0.033333333,0.040154129
-US,United States,Construction,May-19,7438,0.035929432,0.037741373
+US,United States,Construction,Mar-19,6194,0.043478261,0.04037624
+US,United States,Construction,Apr-19,7292,0.033333333,0.039993099
+US,United States,Construction,May-19,7438,0.035929432,0.037580342
 US,United States,Construction,Jun-19,6380,0.038461538,0.035908101
 US,United States,Construction,Jul-19,5737,0.041666667,0.038685879
 US,United States,Construction,Aug-19,6397,0.041666667,0.040598291
@@ -261,43 +264,43 @@ US,United States,Construction,Oct-19,5202,0.037737342,0.031676336
 US,United States,Construction,Nov-19,3671,0.029706617,0.027689653
 US,United States,Construction,Dec-19,2837,0.038461538,0.035301832
 US,United States,Construction,Jan-20,5000,0.004330806,0.02416632
-US,United States,Construction,Feb-20,5336,0.027777778,0.023523374
-US,United States,Construction,Mar-20,5349,0.03030303,0.020803871
-US,United States,Construction,Apr-20,4647,0.041402161,0.03316099
+US,United States,Construction,Feb-20,5334,0.027094801,0.023295715
+US,United States,Construction,Mar-20,5349,0.03030303,0.020576212
+US,United States,Construction,Apr-20,4647,0.041402161,0.032933331
 US,United States,Construction,May-20,7738,0.021980676,0.031228623
-US,United States,Construction,Jun-20,9140,0.011111111,0.024831316
+US,United States,Construction,Jun-20,9141,0.011111111,0.024831316
 US,United States,Construction,Jul-20,9987,0,0.011030596
 US,United States,Construction,Aug-20,10619,0.004395907,0.005169006
 US,United States,Construction,Sep-20,9502,0.02852182,0.010972576
 US,United States,Construction,Oct-20,10247,0.0263502,0.019755976
 US,United States,Construction,Nov-20,6643,0.032258065,0.029043361
 US,United States,Construction,Dec-20,5967,0.043569008,0.034059091
-US,United States,Construction,Jan-21,9260,0.038461538,0.038096204
-US,United States,Construction,Feb-21,11411,0.041381279,0.041137275
-US,United States,Construction,Mar-21,18667,0.047619048,0.042487288
-US,United States,Construction,Apr-21,19678,0.044776119,0.044592149
-US,United States,Construction,May-21,17028,0.060606061,0.051000409
-US,United States,Construction,Jun-21,16675,0.060606061,0.055329414
-US,United States,Construction,Jul-21,15422,0.076923077,0.066045066
-US,United States,Construction,Aug-21,12650,0.084541556,0.074023565
+US,United States,Construction,Jan-21,9262,0.038461538,0.038096204
+US,United States,Construction,Feb-21,11407,0.041666667,0.041232404
+US,United States,Construction,Mar-21,18667,0.047619048,0.042582418
+US,United States,Construction,Apr-21,19678,0.044776119,0.044687278
+US,United States,Construction,May-21,17027,0.060606061,0.051000409
+US,United States,Construction,Jun-21,16675,0.060574425,0.055318868
+US,United States,Construction,Jul-21,15422,0.076923077,0.066034521
+US,United States,Construction,Aug-21,12650,0.084541556,0.074013019
 US,United States,Construction,Sep-21,11987,0.083333333,0.081599322
-US,United States,Construction,Oct-21,11327,0.078125,0.081999963
-US,United States,Construction,Nov-21,8844,0.081081081,0.080846471
-US,United States,Construction,Dec-21,8859,0.063829787,0.074345289
+US,United States,Construction,Oct-21,11328,0.077524038,0.081799643
+US,United States,Construction,Nov-21,8844,0.081081081,0.080646151
+US,United States,Construction,Dec-21,8860,0.063829787,0.074144969
 US,United States,Construction,Jan-22,10427,0.082653122,0.075854663
-US,United States,Construction,Feb-22,11994,0.083333333,0.076605414
+US,United States,Construction,Feb-22,11995,0.083333333,0.076605414
 US,United States,Construction,Mar-22,17628,0.083333333,0.083106596
-US,United States,Construction,Apr-22,16404,0.081081081,0.082582583
-US,United States,Construction,May-22,15132,0.076923077,0.08044583
-US,United States,Construction,Jun-22,15976,0.071428571,0.076477576
-US,United States,Construction,Jul-22,19054,0.071428571,0.073260073
-US,United States,Construction,Aug-22,22527,0.067567568,0.07014157
-US,United States,Construction,Sep-22,18337,0.065448998,0.068148379
-US,United States,Construction,Oct-22,14434,0.060606061,0.064540875
+US,United States,Construction,Apr-22,16405,0.081081081,0.082582583
+US,United States,Construction,May-22,15131,0.076696833,0.080370416
+US,United States,Construction,Jun-22,15977,0.071428571,0.076402162
+US,United States,Construction,Jul-22,19050,0.071428571,0.073184658
+US,United States,Construction,Aug-22,22529,0.067567568,0.07014157
+US,United States,Construction,Sep-22,18336,0.065448998,0.068148379
+US,United States,Construction,Oct-22,14435,0.060606061,0.064540875
 US,United States,Construction,Nov-22,13393,0.04947525,0.058510103
 US,United States,Construction,Dec-22,12706,0.05,0.053360437
 US,United States,Construction,Jan-23,14991,0.058139535,0.052538262
-US,United States,Construction,Feb-23,15101,0.05,0.052713178
+US,United States,Construction,Feb-23,15102,0.05,0.052713178
 US,United States,Construction,Mar-23,21810,0.043478261,0.050539265
 US,United States,Construction,Apr-23,21515,0.043478261,0.045652174
 US,United States,Construction,May-23,21331,0.044499969,0.04381883
@@ -308,29 +311,30 @@ US,United States,Construction,Sep-23,20118,0.041666667,0.038483796
 US,United States,Construction,Oct-23,17282,0.035714286,0.03813933
 US,United States,Construction,Nov-23,14442,0.034482759,0.037287904
 US,United States,Construction,Dec-23,11986,0.039428512,0.036541852
-US,United States,Construction,Jan-24,15152,0.028622632,0.034177967
-US,United States,Construction,Feb-24,16206,0.02678459,0.031611911
-US,United States,Construction,Mar-24,20580,0.031512744,0.028973322
-US,United States,Construction,Apr-24,19463,0.028571429,0.028956254
-US,United States,Construction,May-24,18910,0.038461538,0.03284857
-US,United States,Construction,Jun-24,16392,0.034883721,0.033972229
-US,United States,Construction,Jul-24,15020,0.03089435,0.034746536
-US,United States,Construction,Aug-24,16771,0.030204443,0.031994171
-US,United States,Construction,Sep-24,13758,0.023809524,0.028302772
-US,United States,Construction,Oct-24,14326,0.028037383,0.02735045
-US,United States,Construction,Nov-24,10249,0.036517013,0.02945464
-US,United States,Construction,Dec-24,8497,0.028333346,0.030962581
-US,United States,Construction,Jan-25,13117,0.033520599,0.032790319
-US,United States,Construction,Feb-25,12568,0.026491227,0.029448391
-US,United States,Construction,Mar-25,16150,0.022727273,0.0275797
-US,United States,Construction,Apr-25,16484,0.020408163,0.023208888
-US,United States,Construction,May-25,15341,0.014151451,0.019095629
-US,United States,Construction,Jun-25,14255,0.021276596,0.01861207
-US,United States,Construction,Jul-25,15471,0.025641026,0.020356358
-US,United States,Construction,Aug-25,16378,0.02943182,0.025449814
-US,United States,Construction,Sep-25,12961,0.032002048,0.029024965
-US,United States,Construction,Oct-25,13789,0.027650357,0.029694742
-US,United States,Construction,Nov-25,11665,0.030640625,0.030097677
+US,United States,Construction,Jan-24,15152,0.028571429,0.0341609
+US,United States,Construction,Feb-24,16206,0.027027027,0.031675656
+US,United States,Construction,Mar-24,20582,0.03125,0.028949485
+US,United States,Construction,Apr-24,19463,0.028571429,0.028949485
+US,United States,Construction,May-24,18913,0.038461538,0.032760989
+US,United States,Construction,Jun-24,16394,0.035034216,0.034022394
+US,United States,Construction,Jul-24,15020,0.031124673,0.034873476
+US,United States,Construction,Aug-24,16770,0.030204443,0.032121111
+US,United States,Construction,Sep-24,13763,0.023809524,0.028379547
+US,United States,Construction,Oct-24,14327,0.028037383,0.02735045
+US,United States,Construction,Nov-24,10253,0.036585366,0.029477424
+US,United States,Construction,Dec-24,8497,0.029352227,0.031324992
+US,United States,Construction,Jan-25,13117,0.03308615,0.033007914
+US,United States,Construction,Feb-25,12582,0.026491227,0.029643201
+US,United States,Construction,Mar-25,16151,0.022727273,0.027434883
+US,United States,Construction,Apr-25,16486,0.020408163,0.023208888
+US,United States,Construction,May-25,15345,0.014151451,0.019095629
+US,United States,Construction,Jun-25,14258,0.021052612,0.018537409
+US,United States,Construction,Jul-25,15476,0.025641026,0.020281696
+US,United States,Construction,Aug-25,16375,0.029411765,0.025368467
+US,United States,Construction,Sep-25,12963,0.033333333,0.029462041
+US,United States,Construction,Oct-25,13799,0.027027027,0.029924042
+US,United States,Construction,Nov-25,11689,0.031967226,0.030775862
+US,United States,Construction,Dec-25,10877,0.033333333,0.030775862
 US,United States,Customer Service,Jan-19,7974,0.038649856,NA
 US,United States,Customer Service,Feb-19,8226,0.043478261,NA
 US,United States,Customer Service,Mar-19,10872,0.043288681,0.041805599
@@ -340,85 +344,86 @@ US,United States,Customer Service,Jun-19,10145,0.025,0.033094895
 US,United States,Customer Service,Jul-19,9816,0.037037037,0.032173254
 US,United States,Customer Service,Aug-19,11335,0.040816327,0.034284455
 US,United States,Customer Service,Sep-19,9420,0.04,0.039284455
-US,United States,Customer Service,Oct-19,10796,0.034825871,0.038547399
+US,United States,Customer Service,Oct-19,10797,0.034825871,0.038547399
 US,United States,Customer Service,Nov-19,8826,0.029411765,0.034745878
 US,United States,Customer Service,Dec-19,7444,0.019230769,0.027822802
 US,United States,Customer Service,Jan-20,11591,0.035294118,0.027978884
 US,United States,Customer Service,Feb-20,11773,0.030159393,0.028228093
 US,United States,Customer Service,Mar-20,8580,0.037037037,0.034163516
-US,United States,Customer Service,Apr-20,4527,0.036585366,0.034593932
-US,United States,Customer Service,May-20,9604,0.011494253,0.028372219
-US,United States,Customer Service,Jun-20,12415,0.027777778,0.025285799
-US,United States,Customer Service,Jul-20,14323,0.016949153,0.018740394
+US,United States,Customer Service,Apr-20,4528,0.036666177,0.034620869
+US,United States,Customer Service,May-20,9604,0.011494253,0.028399156
+US,United States,Customer Service,Jun-20,12415,0.027777778,0.025312736
+US,United States,Customer Service,Jul-20,14322,0.016949153,0.018740394
 US,United States,Customer Service,Aug-20,15008,0.025,0.02324231
-US,United States,Customer Service,Sep-20,15106,0.027777778,0.02324231
-US,United States,Customer Service,Oct-20,16790,0.038402289,0.030393356
-US,United States,Customer Service,Nov-20,11835,0.024509804,0.030229957
+US,United States,Customer Service,Sep-20,15105,0.027402402,0.023117185
+US,United States,Customer Service,Oct-20,16790,0.038402289,0.030268231
+US,United States,Customer Service,Nov-20,11835,0.024509804,0.030104832
 US,United States,Customer Service,Dec-20,11219,0.038461538,0.033791211
 US,United States,Customer Service,Jan-21,16258,0.037037037,0.033336127
 US,United States,Customer Service,Feb-21,17580,0.043000291,0.039499622
-US,United States,Customer Service,Mar-21,25274,0.04109589,0.040377739
-US,United States,Customer Service,Apr-21,25121,0.05909213,0.047729437
-US,United States,Customer Service,May-21,26361,0.076923077,0.059037032
-US,United States,Customer Service,Jun-21,27293,0.0790125,0.071675902
-US,United States,Customer Service,Jul-21,24499,0.0889989,0.081644826
-US,United States,Customer Service,Aug-21,22636,0.076923077,0.081644826
-US,United States,Customer Service,Sep-21,22028,0.09375,0.086557326
-US,United States,Customer Service,Oct-21,22783,0.1,0.090224359
+US,United States,Customer Service,Mar-21,25275,0.04109589,0.040377739
+US,United States,Customer Service,Apr-21,25136,0.058823529,0.047639904
+US,United States,Customer Service,May-21,26360,0.076923077,0.058947499
+US,United States,Customer Service,Jun-21,27294,0.0790125,0.071586369
+US,United States,Customer Service,Jul-21,24493,0.088888889,0.081608155
+US,United States,Customer Service,Aug-21,22636,0.076923077,0.081608155
+US,United States,Customer Service,Sep-21,22028,0.09375,0.086520655
+US,United States,Customer Service,Oct-21,22784,0.1,0.090224359
 US,United States,Customer Service,Nov-21,18076,0.098039216,0.097263072
-US,United States,Customer Service,Dec-21,19034,0.098126751,0.098721989
-US,United States,Customer Service,Jan-22,21539,0.104166667,0.100110878
-US,United States,Customer Service,Feb-22,21847,0.097675545,0.099989654
+US,United States,Customer Service,Dec-21,19036,0.098402918,0.098814044
+US,United States,Customer Service,Jan-22,21539,0.104166667,0.100202933
+US,United States,Customer Service,Feb-22,21846,0.097675545,0.10008171
 US,United States,Customer Service,Mar-22,29385,0.107142857,0.102995023
 US,United States,Customer Service,Apr-22,27566,0.104592139,0.103136847
 US,United States,Customer Service,May-22,26130,0.102040816,0.104591938
-US,United States,Customer Service,Jun-22,25869,0.090909091,0.099180682
-US,United States,Customer Service,Jul-22,31748,0.087378641,0.093442849
-US,United States,Customer Service,Aug-22,39000,0.081919267,0.086735666
-US,United States,Customer Service,Sep-22,33613,0.07826087,0.082519592
-US,United States,Customer Service,Oct-22,28974,0.066666667,0.075615601
+US,United States,Customer Service,Jun-22,25870,0.090909091,0.099180682
+US,United States,Customer Service,Jul-22,31748,0.087075,0.093341636
+US,United States,Customer Service,Aug-22,38992,0.081967213,0.086650435
+US,United States,Customer Service,Sep-22,33614,0.07826087,0.082434361
+US,United States,Customer Service,Oct-22,28974,0.066666667,0.075631583
 US,United States,Customer Service,Nov-22,28644,0.064220183,0.069715907
 US,United States,Customer Service,Dec-22,27855,0.071428571,0.067438474
-US,United States,Customer Service,Jan-23,31930,0.07000788,0.068552212
-US,United States,Customer Service,Feb-23,31319,0.065789474,0.069075308
-US,United States,Customer Service,Mar-23,39093,0.06,0.065265785
-US,United States,Customer Service,Apr-23,36259,0.058823529,0.061537668
-US,United States,Customer Service,May-23,35474,0.045833333,0.054885621
-US,United States,Customer Service,Jun-23,34752,0.049180328,0.051279064
-US,United States,Customer Service,Jul-23,33728,0.04,0.045004554
-US,United States,Customer Service,Aug-23,38018,0.051503095,0.046894474
+US,United States,Customer Service,Jan-23,31929,0.07000788,0.068552212
+US,United States,Customer Service,Feb-23,31320,0.065789474,0.069075308
+US,United States,Customer Service,Mar-23,39092,0.06,0.065265785
+US,United States,Customer Service,Apr-23,36260,0.058823529,0.061537668
+US,United States,Customer Service,May-23,35472,0.045454545,0.054759358
+US,United States,Customer Service,Jun-23,34755,0.048980408,0.051086161
+US,United States,Customer Service,Jul-23,33729,0.04,0.044811651
+US,United States,Customer Service,Aug-23,38019,0.051503095,0.046827834
 US,United States,Customer Service,Sep-23,32063,0.042253521,0.044585539
-US,United States,Customer Service,Oct-23,30989,0.041666667,0.045141094
+US,United States,Customer Service,Oct-23,30987,0.041666667,0.045141094
 US,United States,Customer Service,Nov-23,26999,0.04,0.041306729
 US,United States,Customer Service,Dec-23,23523,0.033333333,0.038333333
-US,United States,Customer Service,Jan-24,29724,0.033333333,0.035555556
-US,United States,Customer Service,Feb-24,29405,0.034482759,0.033716475
-US,United States,Customer Service,Mar-24,34064,0.03030303,0.032706374
-US,United States,Customer Service,Apr-24,32345,0.026578357,0.030454715
-US,United States,Customer Service,May-24,31375,0.03030303,0.029061473
-US,United States,Customer Service,Jun-24,29042,0.032258065,0.029713151
-US,United States,Customer Service,Jul-24,28311,0.03238292,0.031648005
-US,United States,Customer Service,Aug-24,31607,0.025641026,0.030094003
-US,United States,Customer Service,Sep-24,27493,0.03125,0.029757982
-US,United States,Customer Service,Oct-24,27361,0.033333333,0.030074786
-US,United States,Customer Service,Nov-24,21683,0.032258065,0.032280466
-US,United States,Customer Service,Dec-24,19987,0.030500031,0.032030476
-US,United States,Customer Service,Jan-25,26688,0.032258065,0.031672053
-US,United States,Customer Service,Feb-25,24390,0.033961227,0.032239774
-US,United States,Customer Service,Mar-25,26942,0.034560215,0.033593169
-US,United States,Customer Service,Apr-25,26930,0.029411765,0.032644402
-US,United States,Customer Service,May-25,26899,0.028571429,0.030847803
-US,United States,Customer Service,Jun-25,22540,0.029411765,0.029131653
-US,United States,Customer Service,Jul-25,25765,0.029411765,0.029131653
-US,United States,Customer Service,Aug-25,26581,0.027777778,0.028867102
-US,United States,Customer Service,Sep-25,22801,0.031977424,0.029722322
-US,United States,Customer Service,Oct-25,24234,0.029411765,0.029722322
-US,United States,Customer Service,Nov-25,19586,0.022727273,0.028038821
+US,United States,Customer Service,Jan-24,29726,0.033333333,0.035555556
+US,United States,Customer Service,Feb-24,29406,0.034602077,0.033756248
+US,United States,Customer Service,Mar-24,34065,0.03030303,0.032746147
+US,United States,Customer Service,Apr-24,32345,0.026578357,0.030494488
+US,United States,Customer Service,May-24,31372,0.03030303,0.029061473
+US,United States,Customer Service,Jun-24,29043,0.032051282,0.029644223
+US,United States,Customer Service,Jul-24,28317,0.03238292,0.031579078
+US,United States,Customer Service,Aug-24,31597,0.025641026,0.030025076
+US,United States,Customer Service,Sep-24,27497,0.03125,0.029757982
+US,United States,Customer Service,Oct-24,27359,0.033333333,0.030074786
+US,United States,Customer Service,Nov-24,21686,0.032941145,0.032508159
+US,United States,Customer Service,Dec-24,19994,0.03040153,0.032225336
+US,United States,Customer Service,Jan-25,26728,0.032258065,0.031866913
+US,United States,Customer Service,Feb-25,24400,0.033831545,0.032163713
+US,United States,Customer Service,Mar-25,26950,0.034482759,0.033524123
+US,United States,Customer Service,Apr-25,26935,0.029411765,0.032575356
+US,United States,Customer Service,May-25,26911,0.028424512,0.030773012
+US,United States,Customer Service,Jun-25,22540,0.029411765,0.02908268
+US,United States,Customer Service,Jul-25,25760,0.029411765,0.02908268
+US,United States,Customer Service,Aug-25,26569,0.027804863,0.028876131
+US,United States,Customer Service,Sep-25,22818,0.032258065,0.029824897
+US,United States,Customer Service,Oct-25,24241,0.029411765,0.029824897
+US,United States,Customer Service,Nov-25,19603,0.023341471,0.0283371
+US,United States,Customer Service,Dec-25,18966,0.020059446,0.024270894
 US,United States,Education & Instruction,Jan-19,5542,0.006402979,NA
 US,United States,Education & Instruction,Feb-19,5214,0.013371367,NA
 US,United States,Education & Instruction,Mar-19,6708,0.022365961,0.014046769
 US,United States,Education & Instruction,Apr-19,6472,0.034883721,0.02354035
-US,United States,Education & Instruction,May-19,6730,0.03000269,0.029084124
+US,United States,Education & Instruction,May-19,6731,0.03000269,0.029084124
 US,United States,Education & Instruction,Jun-19,6331,0.03125,0.03204547
 US,United States,Education & Instruction,Jul-19,8345,0.020048115,0.027100268
 US,United States,Education & Instruction,Aug-19,10615,0.017904838,0.023067651
@@ -427,7 +432,7 @@ US,United States,Education & Instruction,Oct-19,7220,0.018469822,0.016291553
 US,United States,Education & Instruction,Nov-19,5849,0.027907578,0.0196258
 US,United States,Education & Instruction,Dec-19,5128,0.025454539,0.02394398
 US,United States,Education & Instruction,Jan-20,8556,0.034741398,0.029367838
-US,United States,Education & Instruction,Feb-20,8188,0.019996096,0.026730678
+US,United States,Education & Instruction,Feb-20,8187,0.019996096,0.026730678
 US,United States,Education & Instruction,Mar-20,5669,0.021697596,0.025478364
 US,United States,Education & Instruction,Apr-20,2938,0.029071263,0.023588318
 US,United States,Education & Instruction,May-20,4685,0.004781241,0.0185167
@@ -444,308 +449,312 @@ US,United States,Education & Instruction,Mar-21,12396,0.026081106,0.019503154
 US,United States,Education & Instruction,Apr-21,9409,0,0.01522965
 US,United States,Education & Instruction,May-21,10878,0.043413174,0.02316476
 US,United States,Education & Instruction,Jun-21,12798,0.041666667,0.028359947
-US,United States,Education & Instruction,Jul-21,17542,0.055555556,0.046878465
+US,United States,Education & Instruction,Jul-21,17543,0.055555556,0.046878465
 US,United States,Education & Instruction,Aug-21,17120,0.0625,0.053240741
 US,United States,Education & Instruction,Sep-21,14811,0.071428571,0.063161376
 US,United States,Education & Instruction,Oct-21,13860,0.08,0.071309524
-US,United States,Education & Instruction,Nov-21,10968,0.06936648,0.07359835
+US,United States,Education & Instruction,Nov-21,10969,0.06936648,0.07359835
 US,United States,Education & Instruction,Dec-21,11582,0.076958333,0.075441604
 US,United States,Education & Instruction,Jan-22,13774,0.08211651,0.076147108
-US,United States,Education & Instruction,Feb-22,15339,0.084701639,0.081258828
+US,United States,Education & Instruction,Feb-22,15338,0.084701639,0.081258828
 US,United States,Education & Instruction,Mar-22,19898,0.071428571,0.079415574
-US,United States,Education & Instruction,Apr-22,18729,0.083333333,0.079821181
+US,United States,Education & Instruction,Apr-22,18728,0.083333333,0.079821181
 US,United States,Education & Instruction,May-22,16992,0.075,0.076587302
-US,United States,Education & Instruction,Jun-22,19093,0.081967213,0.080100182
+US,United States,Education & Instruction,Jun-22,19094,0.081967213,0.080100182
 US,United States,Education & Instruction,Jul-22,30563,0.077681992,0.078216402
-US,United States,Education & Instruction,Aug-22,37973,0.084680574,0.08144326
-US,United States,Education & Instruction,Sep-22,29470,0.088461546,0.083608037
-US,United States,Education & Instruction,Oct-22,22688,0.08240269,0.085181603
+US,United States,Education & Instruction,Aug-22,37972,0.084615385,0.08142153
+US,United States,Education & Instruction,Sep-22,29470,0.088461546,0.083586308
+US,United States,Education & Instruction,Oct-22,22688,0.08240269,0.085159874
 US,United States,Education & Instruction,Nov-22,24000,0.076923077,0.082595771
 US,United States,Education & Instruction,Dec-22,22508,0.06809082,0.075805529
-US,United States,Education & Instruction,Jan-23,28960,0.071428571,0.07214749
-US,United States,Education & Instruction,Feb-23,29252,0.065019512,0.068179635
+US,United States,Education & Instruction,Jan-23,28958,0.071428571,0.07214749
+US,United States,Education & Instruction,Feb-23,29253,0.065019512,0.068179635
 US,United States,Education & Instruction,Mar-23,36595,0.071428571,0.069292218
 US,United States,Education & Instruction,Apr-23,31218,0.060400118,0.065616067
 US,United States,Education & Instruction,May-23,31703,0.051453534,0.061094074
 US,United States,Education & Instruction,Jun-23,32476,0.052128623,0.054660758
-US,United States,Education & Instruction,Jul-23,37224,0.054374234,0.05265213
-US,United States,Education & Instruction,Aug-23,43875,0.051675839,0.052726232
-US,United States,Education & Instruction,Sep-23,33979,0.040832685,0.048960919
-US,United States,Education & Instruction,Oct-23,30066,0.040899967,0.044469497
-US,United States,Education & Instruction,Nov-23,27718,0.041392266,0.041041639
-US,United States,Education & Instruction,Dec-23,25372,0.042123848,0.041472027
-US,United States,Education & Instruction,Jan-24,33191,0.036316533,0.039944216
-US,United States,Education & Instruction,Feb-24,35508,0.037931034,0.038790472
-US,United States,Education & Instruction,Mar-24,37697,0.033333333,0.0358603
-US,United States,Education & Instruction,Apr-24,35214,0.031695835,0.034320068
-US,United States,Education & Instruction,May-24,34621,0.04527641,0.036768526
-US,United States,Education & Instruction,Jun-24,34108,0.038461538,0.038477928
-US,United States,Education & Instruction,Jul-24,40350,0.038461538,0.040733162
-US,United States,Education & Instruction,Aug-24,45045,0.043712524,0.040211867
-US,United States,Education & Instruction,Sep-24,34100,0.045454545,0.042542869
-US,United States,Education & Instruction,Oct-24,32799,0.037292,0.042153023
-US,United States,Education & Instruction,Nov-24,26930,0.04372971,0.042158752
-US,United States,Education & Instruction,Dec-24,24741,0.038439654,0.039820455
-US,United States,Education & Instruction,Jan-25,32821,0.041666667,0.041278677
-US,United States,Education & Instruction,Feb-25,31369,0.039337228,0.039814516
-US,United States,Education & Instruction,Mar-25,36363,0.03461537,0.038539755
-US,United States,Education & Instruction,Apr-25,38088,0.04125709,0.038403229
-US,United States,Education & Instruction,May-25,35065,0.028388929,0.034753796000000003
-US,United States,Education & Instruction,Jun-25,30981,0.034482759,0.034709592
-US,United States,Education & Instruction,Jul-25,37838,0.028269674,0.030380454
-US,United States,Education & Instruction,Aug-25,37940,0.025974953,0.029575795
-US,United States,Education & Instruction,Sep-25,28854,0.01776726,0.024003962
-US,United States,Education & Instruction,Oct-25,27960,0.018439555,0.020727256
-US,United States,Education & Instruction,Nov-25,22066,0.023809524,0.020005446
-US,United States,Food Preparation & Service,Jan-19,11051,0.045751643,NA
-US,United States,Food Preparation & Service,Feb-19,11986,0.043478261,NA
-US,United States,Food Preparation & Service,Mar-19,19352,0.043478261,0.044236055
-US,United States,Food Preparation & Service,Apr-19,20162,0.041666646,0.042874389
-US,United States,Food Preparation & Service,May-19,20558,0.039714058000000003,0.041619655
-US,United States,Food Preparation & Service,Jun-19,17222,0.035294118,0.038891607
-US,United States,Food Preparation & Service,Jul-19,17186,0.034893604,0.036633927
-US,United States,Food Preparation & Service,Aug-19,21633,0.037735849,0.035974524
-US,United States,Food Preparation & Service,Sep-19,16009,0.036301351,0.036310268
-US,United States,Food Preparation & Service,Oct-19,19041,0.025641026,0.033226075
-US,United States,Food Preparation & Service,Nov-19,14829,0.034825871,0.032256082
-US,United States,Food Preparation & Service,Dec-19,12784,0.029027637,0.029831511
-US,United States,Food Preparation & Service,Jan-20,18432,0.022222222,0.02869191
-US,United States,Food Preparation & Service,Feb-20,20155,0.025641026,0.025630295
-US,United States,Food Preparation & Service,Mar-20,14476,0.02173913,0.023200793
+US,United States,Education & Instruction,Jul-23,37226,0.054545455,0.052709204
+US,United States,Education & Instruction,Aug-23,43874,0.051691176,0.052788418
+US,United States,Education & Instruction,Sep-23,33978,0.040757252,0.048997961
+US,United States,Education & Instruction,Oct-23,30065,0.040899967,0.044449465
+US,United States,Education & Instruction,Nov-23,27717,0.041392266,0.041016495
+US,United States,Education & Instruction,Dec-23,25371,0.042041815,0.041444682
+US,United States,Education & Instruction,Jan-24,33192,0.036423937,0.039952672
+US,United States,Education & Instruction,Feb-24,35508,0.037918589,0.03879478
+US,United States,Education & Instruction,Mar-24,37698,0.033333333,0.035891953
+US,United States,Education & Instruction,Apr-24,35214,0.031833316,0.034361746
+US,United States,Education & Instruction,May-24,34617,0.045316094,0.036827581
+US,United States,Education & Instruction,Jun-24,34106,0.038461538,0.038536983
+US,United States,Education & Instruction,Jul-24,40349,0.038461538,0.04074639
+US,United States,Education & Instruction,Aug-24,45044,0.043712524,0.040211867
+US,United States,Education & Instruction,Sep-24,34101,0.045454545,0.042542869
+US,United States,Education & Instruction,Oct-24,32799,0.037037037,0.042068035
+US,United States,Education & Instruction,Nov-24,26933,0.043762665,0.042084749
+US,United States,Education & Instruction,Dec-24,24775,0.03859087,0.039796857
+US,United States,Education & Instruction,Jan-25,32830,0.041666667,0.041340067
+US,United States,Education & Instruction,Feb-25,31369,0.039353654,0.039870397
+US,United States,Education & Instruction,Mar-25,36362,0.034660631,0.038560317
+US,United States,Education & Instruction,Apr-25,38084,0.041383262,0.038465849
+US,United States,Education & Instruction,May-25,35079,0.028313502,0.034785798
+US,United States,Education & Instruction,Jun-25,30989,0.034156498,0.034617754
+US,United States,Education & Instruction,Jul-25,37836,0.028571429,0.030347143
+US,United States,Education & Instruction,Aug-25,37946,0.026062331,0.029596753
+US,United States,Education & Instruction,Sep-25,28864,0.017904357,0.024179372
+US,United States,Education & Instruction,Oct-25,27982,0.017970771,0.02064582
+US,United States,Education & Instruction,Nov-25,22100,0.023978793,0.019951307
+US,United States,Education & Instruction,Dec-25,21538,0.019319897,0.020423154
+US,United States,Food Preparation & Service,Jan-19,11050,0.045751643,NA
+US,United States,Food Preparation & Service,Feb-19,11985,0.043478261,NA
+US,United States,Food Preparation & Service,Mar-19,19356,0.043478261,0.044236055
+US,United States,Food Preparation & Service,Apr-19,20161,0.041666667,0.042874396
+US,United States,Food Preparation & Service,May-19,20561,0.04,0.041714976
+US,United States,Food Preparation & Service,Jun-19,17221,0.035294118,0.038986928
+US,United States,Food Preparation & Service,Jul-19,17185,0.034893604,0.036729241
+US,United States,Food Preparation & Service,Aug-19,21634,0.038273598,0.036153773
+US,United States,Food Preparation & Service,Sep-19,16009,0.036301351,0.036489518
+US,United States,Food Preparation & Service,Oct-19,19041,0.025641026,0.033405325
+US,United States,Food Preparation & Service,Nov-19,14831,0.034654315,0.032198897
+US,United States,Food Preparation & Service,Dec-19,12785,0.029240764,0.029845368
+US,United States,Food Preparation & Service,Jan-20,18432,0.022222222,0.028705767
+US,United States,Food Preparation & Service,Feb-20,20155,0.025641026,0.025701337
+US,United States,Food Preparation & Service,Mar-20,14477,0.02173913,0.023200793
 US,United States,Food Preparation & Service,Apr-20,6205,0,0.015793385
-US,United States,Food Preparation & Service,May-20,15258,0,0.007246377
+US,United States,Food Preparation & Service,May-20,15260,0,0.007246377
 US,United States,Food Preparation & Service,Jun-20,22509,0,0
-US,United States,Food Preparation & Service,Jul-20,23274,0,0
+US,United States,Food Preparation & Service,Jul-20,23277,0,0
 US,United States,Food Preparation & Service,Aug-20,26204,0.012658228,0.004219409
-US,United States,Food Preparation & Service,Sep-20,27098,0.017949927,0.010202718
+US,United States,Food Preparation & Service,Sep-20,27100,0.017949927,0.010202718
 US,United States,Food Preparation & Service,Oct-20,29834,0.019607843,0.016738666
-US,United States,Food Preparation & Service,Nov-20,19177,0.018867925,0.018808565
-US,United States,Food Preparation & Service,Dec-20,15544,0.019607843,0.019361204
-US,United States,Food Preparation & Service,Jan-21,26646,0.032258065,0.023577944
-US,United States,Food Preparation & Service,Feb-21,33681,0.047619048,0.033161652
-US,United States,Food Preparation & Service,Mar-21,57132,0.067770072,0.049215728
-US,United States,Food Preparation & Service,Apr-21,48160,0.103448276,0.072945798
+US,United States,Food Preparation & Service,Nov-20,19185,0.018867925,0.018808565
+US,United States,Food Preparation & Service,Dec-20,15543,0.019607843,0.019361204
+US,United States,Food Preparation & Service,Jan-21,26646,0.032412975,0.023629581
+US,United States,Food Preparation & Service,Feb-21,33676,0.047619048,0.033213288
+US,United States,Food Preparation & Service,Mar-21,57132,0.067770072,0.049267365
+US,United States,Food Preparation & Service,Apr-21,48162,0.103448276,0.072945798
 US,United States,Food Preparation & Service,May-21,52031,0.123653423,0.09829059
 US,United States,Food Preparation & Service,Jun-21,54412,0.129032258,0.118711319
-US,United States,Food Preparation & Service,Jul-21,57814,0.136363636,0.129683106
-US,United States,Food Preparation & Service,Aug-21,54666,0.138888889,0.134761594
-US,United States,Food Preparation & Service,Sep-21,52509,0.142857143,0.139369889
+US,United States,Food Preparation & Service,Jul-21,57812,0.136363636,0.129683106
+US,United States,Food Preparation & Service,Aug-21,54665,0.138888889,0.134761594
+US,United States,Food Preparation & Service,Sep-21,52502,0.142857143,0.139369889
 US,United States,Food Preparation & Service,Oct-21,51618,0.144067778,0.141937937
-US,United States,Food Preparation & Service,Nov-21,43766,0.157407387,0.148110769
-US,United States,Food Preparation & Service,Dec-21,41340,0.157894737,0.153123301
-US,United States,Food Preparation & Service,Jan-22,45526,0.14583335,0.153711825
-US,United States,Food Preparation & Service,Feb-22,49558,0.130952381,0.144893489
-US,United States,Food Preparation & Service,Mar-22,77110,0.132659806,0.136481845
-US,United States,Food Preparation & Service,Apr-22,76504,0.12,0.127870729
-US,United States,Food Preparation & Service,May-22,73289,0.09375,0.115469935
-US,United States,Food Preparation & Service,Jun-22,64029,0.083333333,0.099027778
-US,United States,Food Preparation & Service,Jul-22,84857,0.08,0.085694444
-US,United States,Food Preparation & Service,Aug-22,108724,0.078431373,0.080588235
-US,United States,Food Preparation & Service,Sep-22,92301,0.066666667,0.07503268
-US,United States,Food Preparation & Service,Oct-22,74228,0.067860843,0.070986294
-US,United States,Food Preparation & Service,Nov-22,73108,0.064691261,0.066406257
-US,United States,Food Preparation & Service,Dec-22,65731,0.0625,0.065017368
-US,United States,Food Preparation & Service,Jan-23,75875,0.066666667,0.064619309
+US,United States,Food Preparation & Service,Nov-21,43766,0.157407397,0.148110773
+US,United States,Food Preparation & Service,Dec-21,41336,0.157894737,0.153123304
+US,United States,Food Preparation & Service,Jan-22,45525,0.14583335,0.153711828
+US,United States,Food Preparation & Service,Feb-22,49559,0.130693582,0.144807223
+US,United States,Food Preparation & Service,Mar-22,77111,0.132659806,0.136395579
+US,United States,Food Preparation & Service,Apr-22,76502,0.12,0.127784462
+US,United States,Food Preparation & Service,May-22,73287,0.09375,0.115469935
+US,United States,Food Preparation & Service,Jun-22,64026,0.083333333,0.099027778
+US,United States,Food Preparation & Service,Jul-22,84856,0.08,0.085694444
+US,United States,Food Preparation & Service,Aug-22,108720,0.078431373,0.080588235
+US,United States,Food Preparation & Service,Sep-22,92295,0.066666667,0.07503268
+US,United States,Food Preparation & Service,Oct-22,74226,0.067860843,0.070986294
+US,United States,Food Preparation & Service,Nov-22,73105,0.064820485,0.066449332
+US,United States,Food Preparation & Service,Dec-22,65726,0.0625,0.065060443
+US,United States,Food Preparation & Service,Jan-23,75871,0.066666667,0.064662384
 US,United States,Food Preparation & Service,Feb-23,74458,0.066666667,0.065277778
-US,United States,Food Preparation & Service,Mar-23,100012,0.056451613,0.063261649
-US,United States,Food Preparation & Service,Apr-23,96939,0.052631579,0.058583286
-US,United States,Food Preparation & Service,May-23,96884,0.051724138,0.053602443
-US,United States,Food Preparation & Service,Jun-23,84956,0.051470588,0.051942102
-US,United States,Food Preparation & Service,Jul-23,85504,0.045454545,0.049549757
-US,United States,Food Preparation & Service,Aug-23,100959,0.04,0.045641711
-US,United States,Food Preparation & Service,Sep-23,82945,0.041666667,0.042373737
-US,United States,Food Preparation & Service,Oct-23,84320,0.038461538,0.040042735
-US,United States,Food Preparation & Service,Nov-23,69341,0.034178948,0.038102384
-US,United States,Food Preparation & Service,Dec-23,63684,0.032305501,0.034981996
-US,United States,Food Preparation & Service,Jan-24,70536,0.027777778,0.031420743
-US,United States,Food Preparation & Service,Feb-24,69303,0.024691358,0.028258212
-US,United States,Food Preparation & Service,Mar-24,90767,0.024890202,0.025786446
-US,United States,Food Preparation & Service,Apr-24,85380,0.022580639,0.024054066
-US,United States,Food Preparation & Service,May-24,85093,0.022727273,0.023399371
-US,United States,Food Preparation & Service,Jun-24,70844,0.023809524,0.023039145
-US,United States,Food Preparation & Service,Jul-24,69247,0.028571429,0.025036075
-US,United States,Food Preparation & Service,Aug-24,79253,0.025000016,0.025793656
-US,United States,Food Preparation & Service,Sep-24,69397,0.024848476,0.026139973
-US,United States,Food Preparation & Service,Oct-24,66650,0.02804307,0.025963854
-US,United States,Food Preparation & Service,Nov-24,52370,0.020408163,0.024433236
-US,United States,Food Preparation & Service,Dec-24,46245,0.022941972,0.023797735
-US,United States,Food Preparation & Service,Jan-25,57982,0.029376774,0.024242303
-US,United States,Food Preparation & Service,Feb-25,55775,0.024390244,0.025569663
-US,United States,Food Preparation & Service,Mar-25,69352,0.029411765,0.027726261
-US,United States,Food Preparation & Service,Apr-25,69509,0.025925926,0.026575978
-US,United States,Food Preparation & Service,May-25,64878,0.027777778,0.027705156
-US,United States,Food Preparation & Service,Jun-25,55761,0.027777778,0.027160494
-US,United States,Food Preparation & Service,Jul-25,67966,0.015899625,0.023818393
-US,United States,Food Preparation & Service,Aug-25,69135,0.025862069,0.023179824
-US,United States,Food Preparation & Service,Sep-25,59321,0.021201678,0.020987791
-US,United States,Food Preparation & Service,Oct-25,62951,0.022900803,0.023321517
-US,United States,Food Preparation & Service,Nov-25,49524,0.02189781,0.022000097
+US,United States,Food Preparation & Service,Mar-23,100011,0.056451613,0.063261649
+US,United States,Food Preparation & Service,Apr-23,96922,0.052631579,0.058583286
+US,United States,Food Preparation & Service,May-23,96887,0.051724138,0.053602443
+US,United States,Food Preparation & Service,Jun-23,84957,0.051650081,0.052001933
+US,United States,Food Preparation & Service,Jul-23,85507,0.045454545,0.049609588
+US,United States,Food Preparation & Service,Aug-23,100959,0.04,0.045701542
+US,United States,Food Preparation & Service,Sep-23,82948,0.041666667,0.042373737
+US,United States,Food Preparation & Service,Oct-23,84319,0.038461538,0.040042735
+US,United States,Food Preparation & Service,Nov-23,69344,0.034178948,0.038102384
+US,United States,Food Preparation & Service,Dec-23,63683,0.033333333,0.035324607
+US,United States,Food Preparation & Service,Jan-24,70537,0.027777778,0.031763353
+US,United States,Food Preparation & Service,Feb-24,69302,0.024590164,0.028567092
+US,United States,Food Preparation & Service,Mar-24,90767,0.024960184,0.025776042
+US,United States,Food Preparation & Service,Apr-24,85379,0.022556391,0.02403558
+US,United States,Food Preparation & Service,May-24,85093,0.022556391,0.023357655
+US,United States,Food Preparation & Service,Jun-24,70849,0.023809524,0.022974102
+US,United States,Food Preparation & Service,Jul-24,69241,0.028571429,0.024979114
+US,United States,Food Preparation & Service,Aug-24,79257,0.025024954,0.025801969
+US,United States,Food Preparation & Service,Sep-24,69402,0.025,0.026198794
+US,United States,Food Preparation & Service,Oct-24,66643,0.028079105,0.026034686
+US,United States,Food Preparation & Service,Nov-24,52377,0.020408163,0.024495756
+US,United States,Food Preparation & Service,Dec-24,46243,0.022222222,0.02356983
+US,United States,Food Preparation & Service,Jan-25,57992,0.029341784,0.023990723
+US,United States,Food Preparation & Service,Feb-25,55784,0.024390244,0.025318083
+US,United States,Food Preparation & Service,Mar-25,69362,0.029411765,0.027714598
+US,United States,Food Preparation & Service,Apr-25,69516,0.025983796,0.026595268
+US,United States,Food Preparation & Service,May-25,64900,0.02774921,0.027714924
+US,United States,Food Preparation & Service,Jun-25,55764,0.027777778,0.027170261
+US,United States,Food Preparation & Service,Jul-25,67967,0.0160603,0.02386243
+US,United States,Food Preparation & Service,Aug-25,69143,0.026,0.023279359
+US,United States,Food Preparation & Service,Sep-25,59349,0.02173913,0.021266477
+US,United States,Food Preparation & Service,Oct-25,62972,0.022876713,0.023538615
+US,United States,Food Preparation & Service,Nov-25,49660,0.021851681,0.022155842
+US,United States,Food Preparation & Service,Dec-25,44141,0.020833333,0.021853909
 US,United States,Installation & Maintenance,Jan-19,13532,0.039000812,NA
 US,United States,Installation & Maintenance,Feb-19,14364,0.046875,NA
 US,United States,Installation & Maintenance,Mar-19,21039,0.03917844,0.041684751
 US,United States,Installation & Maintenance,Apr-19,21692,0.038901619,0.041651686
-US,United States,Installation & Maintenance,May-19,22626,0.029937747,0.036005935
+US,United States,Installation & Maintenance,May-19,22627,0.029937747,0.036005935
 US,United States,Installation & Maintenance,Jun-19,20334,0.033333333,0.034057566
 US,United States,Installation & Maintenance,Jul-19,18222,0.03030303,0.03119137
-US,United States,Installation & Maintenance,Aug-19,20432,0.037037037,0.0335578
-US,United States,Installation & Maintenance,Sep-19,12763,0.022727273,0.030022447
-US,United States,Installation & Maintenance,Oct-19,17287,0.03030303,0.030022447
-US,United States,Installation & Maintenance,Nov-19,13592,0.029411765,0.027480689
+US,United States,Installation & Maintenance,Aug-19,20432,0.036939571,0.033525312
+US,United States,Installation & Maintenance,Sep-19,12763,0.022727273,0.029989958
+US,United States,Installation & Maintenance,Oct-19,17287,0.03030303,0.029989958
+US,United States,Installation & Maintenance,Nov-19,13593,0.029411765,0.027480689
 US,United States,Installation & Maintenance,Dec-19,11615,0.023809524,0.02784144
-US,United States,Installation & Maintenance,Jan-20,19848,0.022884877,0.025368722
+US,United States,Installation & Maintenance,Jan-20,19849,0.022884877,0.025368722
 US,United States,Installation & Maintenance,Feb-20,21397,0.019483476,0.022059292
 US,United States,Installation & Maintenance,Mar-20,19998,0.03125,0.024539451
 US,United States,Installation & Maintenance,Apr-20,14811,0.034482759,0.028405411
-US,United States,Installation & Maintenance,May-20,23959,0.022727273,0.029486677
+US,United States,Installation & Maintenance,May-20,23960,0.022727273,0.029486677
 US,United States,Installation & Maintenance,Jun-20,29232,0.00754264,0.021584224
-US,United States,Installation & Maintenance,Jul-20,32420,0.014705882,0.014991932
+US,United States,Installation & Maintenance,Jul-20,32421,0.014705882,0.014991932
 US,United States,Installation & Maintenance,Aug-20,33724,0.019230769,0.013826431
-US,United States,Installation & Maintenance,Sep-20,31660,0.026735486,0.020224046
-US,United States,Installation & Maintenance,Oct-20,33792,0.03125,0.025738752
-US,United States,Installation & Maintenance,Nov-20,24280,0.029411765,0.029132417
+US,United States,Installation & Maintenance,Sep-20,31660,0.026804305,0.020246985
+US,United States,Installation & Maintenance,Oct-20,33792,0.03125,0.025761691
+US,United States,Installation & Maintenance,Nov-20,24280,0.029411765,0.029155356
 US,United States,Installation & Maintenance,Dec-20,23930,0.031088918,0.030583561
 US,United States,Installation & Maintenance,Jan-21,36283,0.037037037,0.032512573
 US,United States,Installation & Maintenance,Feb-21,40671,0.051546392,0.039890782
-US,United States,Installation & Maintenance,Mar-21,55807,0.042615012,0.043732814
-US,United States,Installation & Maintenance,Apr-21,51225,0.046511628,0.046891011
-US,United States,Installation & Maintenance,May-21,49002,0.072602463,0.053909701
-US,United States,Installation & Maintenance,Jun-21,52320,0.078730598,0.06594823
-US,United States,Installation & Maintenance,Jul-21,49552,0.084615385,0.078649482
-US,United States,Installation & Maintenance,Aug-21,41573,0.086538462,0.083294815
-US,United States,Installation & Maintenance,Sep-21,41310,0.076923077,0.082692308
-US,United States,Installation & Maintenance,Oct-21,40635,0.085714286,0.083058608
+US,United States,Installation & Maintenance,Mar-21,55806,0.042615012,0.043732814
+US,United States,Installation & Maintenance,Apr-21,51226,0.046511628,0.046891011
+US,United States,Installation & Maintenance,May-21,49002,0.07262428,0.053916973
+US,United States,Installation & Maintenance,Jun-21,52321,0.078730598,0.065955502
+US,United States,Installation & Maintenance,Jul-21,49551,0.084529915,0.078628264
+US,United States,Installation & Maintenance,Aug-21,41573,0.086538462,0.083266325
+US,United States,Installation & Maintenance,Sep-21,41309,0.076923077,0.082663818
+US,United States,Installation & Maintenance,Oct-21,40636,0.085714286,0.083058608
 US,United States,Installation & Maintenance,Nov-21,33871,0.08,0.080879121
 US,United States,Installation & Maintenance,Dec-21,36450,0.083067947,0.082927411
 US,United States,Installation & Maintenance,Jan-22,44637,0.088563054,0.083877
 US,United States,Installation & Maintenance,Feb-22,46115,0.088235294,0.086622099
-US,United States,Installation & Maintenance,Mar-22,63705,0.096774194,0.091190847
-US,United States,Installation & Maintenance,Apr-22,62931,0.090909091,0.09197286
-US,United States,Installation & Maintenance,May-22,58898,0.081081081,0.089588122
-US,United States,Installation & Maintenance,Jun-22,64221,0.075724928,0.0825717
-US,United States,Installation & Maintenance,Jul-22,81385,0.076923077,0.077909695
-US,United States,Installation & Maintenance,Aug-22,94180,0.076923077,0.076523694
+US,United States,Installation & Maintenance,Mar-22,63709,0.096774194,0.091190847
+US,United States,Installation & Maintenance,Apr-22,62930,0.090909091,0.09197286
+US,United States,Installation & Maintenance,May-22,58897,0.081081081,0.089588122
+US,United States,Installation & Maintenance,Jun-22,64219,0.075757576,0.082582583
+US,United States,Installation & Maintenance,Jul-22,81383,0.076923077,0.077920578
+US,United States,Installation & Maintenance,Aug-22,94178,0.076923077,0.076534577
 US,United States,Installation & Maintenance,Sep-22,80385,0.071428571,0.075091575
-US,United States,Installation & Maintenance,Oct-22,67753,0.071428571,0.073260073
+US,United States,Installation & Maintenance,Oct-22,67754,0.071428571,0.073260073
 US,United States,Installation & Maintenance,Nov-22,69413,0.067980981,0.070279375
-US,United States,Installation & Maintenance,Dec-22,70812,0.0625,0.067303184
-US,United States,Installation & Maintenance,Jan-23,85459,0.0625,0.064326994
-US,United States,Installation & Maintenance,Feb-23,82789,0.066666667,0.063888889
-US,United States,Installation & Maintenance,Mar-23,109866,0.057114164,0.06209361
-US,United States,Installation & Maintenance,Apr-23,101560,0.058823529,0.06086812
-US,United States,Installation & Maintenance,May-23,103212,0.052631579,0.056189757
-US,United States,Installation & Maintenance,Jun-23,103842,0.05,0.053818369
+US,United States,Installation & Maintenance,Dec-22,70813,0.0625,0.067303184
+US,United States,Installation & Maintenance,Jan-23,85461,0.0625,0.064326994
+US,United States,Installation & Maintenance,Feb-23,82787,0.066666667,0.063888889
+US,United States,Installation & Maintenance,Mar-23,109866,0.057142857,0.062103175
+US,United States,Installation & Maintenance,Apr-23,101561,0.058823529,0.060877684
+US,United States,Installation & Maintenance,May-23,103211,0.052631579,0.056199322
+US,United States,Installation & Maintenance,Jun-23,103841,0.05,0.053818369
 US,United States,Installation & Maintenance,Jul-23,102334,0.047619048,0.050083542
-US,United States,Installation & Maintenance,Aug-23,115349,0.045454545,0.047691198
-US,United States,Installation & Maintenance,Sep-23,95512,0.044272904,0.045782166
-US,United States,Installation & Maintenance,Oct-23,90478,0.040723982,0.04348381
-US,United States,Installation & Maintenance,Nov-23,79929,0.035087719,0.040028202
-US,United States,Installation & Maintenance,Dec-23,71759,0.035845927,0.037219209
-US,United States,Installation & Maintenance,Jan-24,91124,0.032391279,0.034441642
-US,United States,Installation & Maintenance,Feb-24,88890,0.0292958,0.032511002
-US,United States,Installation & Maintenance,Mar-24,101732,0.033484911,0.031723997
-US,United States,Installation & Maintenance,Apr-24,91715,0.03030303,0.031027914
-US,United States,Installation & Maintenance,May-24,93016,0.029411765,0.031066569
-US,United States,Installation & Maintenance,Jun-24,89173,0.029411765,0.029708853
-US,United States,Installation & Maintenance,Jul-24,84575,0.02910855,0.029310693
-US,United States,Installation & Maintenance,Aug-24,92078,0.033333333,0.030617883
-US,United States,Installation & Maintenance,Sep-24,75375,0.027777778,0.03007322
-US,United States,Installation & Maintenance,Oct-24,77762,0.031746032,0.030952381
-US,United States,Installation & Maintenance,Nov-24,61610,0.036585366,0.032036392
-US,United States,Installation & Maintenance,Dec-24,55644,0.034482759,0.034271385
-US,United States,Installation & Maintenance,Jan-25,81571,0.033333333,0.034800486
-US,United States,Installation & Maintenance,Feb-25,73705,0.031270792,0.033028961
-US,United States,Installation & Maintenance,Mar-25,82894,0.030769231,0.031791119
-US,United States,Installation & Maintenance,Apr-25,84235,0.028571429,0.030203817
-US,United States,Installation & Maintenance,May-25,81227,0.030000019,0.029780226
-US,United States,Installation & Maintenance,Jun-25,73351,0.027027027,0.028532825
-US,United States,Installation & Maintenance,Jul-25,83479,0.027126755,0.028051267
-US,United States,Installation & Maintenance,Aug-25,83123,0.025,0.026384594
-US,United States,Installation & Maintenance,Sep-25,68000,0.025423729,0.025850161
-US,United States,Installation & Maintenance,Oct-25,75481,0.02500002,0.02514125
-US,United States,Installation & Maintenance,Nov-25,56109,0.023592853,0.024672201
-US,United States,Management,Jan-19,5615,0.019598441,NA
-US,United States,Management,Feb-19,5251,0.009999809,NA
-US,United States,Management,Mar-19,7719,0.030424946,0.020007732
-US,United States,Management,Apr-19,7513,0.033210332,0.024545029
-US,United States,Management,May-19,7806,0.030927835,0.031521038
-US,United States,Management,Jun-19,7280,0.028064912,0.03073436
-US,United States,Management,Jul-19,6678,0.030110393,0.029701047
-US,United States,Management,Aug-19,7894,0.035714286,0.03129653
-US,United States,Management,Sep-19,5630,0.015384615,0.027069765
+US,United States,Installation & Maintenance,Aug-23,115350,0.045454545,0.047691198
+US,United States,Installation & Maintenance,Sep-23,95511,0.044272904,0.045782166
+US,United States,Installation & Maintenance,Oct-23,90477,0.040804244,0.043510564
+US,United States,Installation & Maintenance,Nov-23,79931,0.035087719,0.040054956
+US,United States,Installation & Maintenance,Dec-23,71761,0.035845702,0.037245888
+US,United States,Installation & Maintenance,Jan-24,91127,0.032583348,0.03450559
+US,United States,Installation & Maintenance,Feb-24,88890,0.029247773,0.032558941
+US,United States,Installation & Maintenance,Mar-24,101733,0.033484911,0.031772011
+US,United States,Installation & Maintenance,Apr-24,91715,0.03030303,0.031011905
+US,United States,Installation & Maintenance,May-24,93020,0.029411765,0.031066569
+US,United States,Installation & Maintenance,Jun-24,89175,0.029411765,0.029708853
+US,United States,Installation & Maintenance,Jul-24,84582,0.029038194,0.029287241
+US,United States,Installation & Maintenance,Aug-24,92081,0.033333333,0.030594431
+US,United States,Installation & Maintenance,Sep-24,75372,0.027777778,0.030049768
+US,United States,Installation & Maintenance,Oct-24,77882,0.032222778,0.031111296
+US,United States,Installation & Maintenance,Nov-24,61616,0.036673845,0.0322248
+US,United States,Installation & Maintenance,Dec-24,55647,0.034482759,0.034459794
+US,United States,Installation & Maintenance,Jan-25,81576,0.033333333,0.034829979
+US,United States,Installation & Maintenance,Feb-25,73717,0.031363639,0.03305991
+US,United States,Installation & Maintenance,Mar-25,82900,0.030769231,0.031822068
+US,United States,Installation & Maintenance,Apr-25,84248,0.028571429,0.030234766
+US,United States,Installation & Maintenance,May-25,81273,0.030000016,0.029780225
+US,United States,Installation & Maintenance,Jun-25,73361,0.027027027,0.028532824
+US,United States,Installation & Maintenance,Jul-25,83422,0.027027027,0.028018023
+US,United States,Installation & Maintenance,Aug-25,83142,0.025,0.026351351
+US,United States,Installation & Maintenance,Sep-25,67969,0.025641026,0.025889351
+US,United States,Installation & Maintenance,Oct-25,75564,0.025476753,0.025372593
+US,United States,Installation & Maintenance,Nov-25,56158,0.024390244,0.025169341
+US,United States,Installation & Maintenance,Dec-25,55059,0.022222222,0.02402974
+US,United States,Management,Jan-19,5617,0.019607843,NA
+US,United States,Management,Feb-19,5249,0.009807597,NA
+US,United States,Management,Mar-19,7720,0.030424946,0.019946795
+US,United States,Management,Apr-19,7513,0.033210332,0.024480958
+US,United States,Management,May-19,7808,0.031088918,0.031574732
+US,United States,Management,Jun-19,7281,0.026315789,0.030205013
+US,United States,Management,Jul-19,6680,0.03030303,0.029235912
+US,United States,Management,Aug-19,7895,0.035714286,0.030777702
+US,United States,Management,Sep-19,5630,0.015384615,0.027133977
 US,United States,Management,Oct-19,7855,0.033524673,0.028207858
 US,United States,Management,Nov-19,6240,0.02173913,0.023549473
-US,United States,Management,Dec-19,5677,0.024391856,0.026551886
-US,United States,Management,Jan-20,8963,0.032793182,0.026308056
-US,United States,Management,Feb-20,8589,0.036651952,0.031278997
-US,United States,Management,Mar-20,6976,0.033111427,0.03418552
-US,United States,Management,Apr-20,5314,0.025741024,0.031834801
-US,United States,Management,May-20,8386,0.015873016,0.024908489
+US,United States,Management,Dec-19,5678,0.024590164,0.026617989
+US,United States,Management,Jan-20,8963,0.032722514,0.026350603
+US,United States,Management,Feb-20,8588,0.036585366,0.031299348
+US,United States,Management,Mar-20,6975,0.032967033,0.034091637
+US,United States,Management,Apr-20,5314,0.025741024,0.031764474
+US,United States,Management,May-20,8386,0.015873016,0.024860358
 US,United States,Management,Jun-20,9308,0,0.013871347
-US,United States,Management,Jul-20,10847,0.021627309,0.012500108
-US,United States,Management,Aug-20,11259,0.018181818,0.013269709
-US,United States,Management,Sep-20,11460,0.038461538,0.026090222
+US,United States,Management,Jul-20,10851,0.021978022,0.012617013
+US,United States,Management,Aug-20,11258,0.018181818,0.013386613
+US,United States,Management,Sep-20,11462,0.038461538,0.026207126
 US,United States,Management,Oct-20,13196,0.04,0.032214452
-US,United States,Management,Nov-20,9999,0.04101003,0.039823856
-US,United States,Management,Dec-20,9417,0.045945946,0.042318659
-US,United States,Management,Jan-21,14840,0.035227273,0.04072775
-US,United States,Management,Feb-21,15948,0.041666667,0.040946628
-US,United States,Management,Mar-21,19941,0.03125,0.03604798
-US,United States,Management,Apr-21,18628,0.049019608,0.040645425
-US,United States,Management,May-21,20460,0.071428571,0.05056606
-US,United States,Management,Jun-21,22237,0.076923077,0.065790419
-US,United States,Management,Jul-21,23060,0.080645161,0.07633227
-US,United States,Management,Aug-21,22490,0.076086957,0.077885065
-US,United States,Management,Sep-21,21604,0.076923077,0.077885065
-US,United States,Management,Oct-21,22461,0.081081081,0.078030372
-US,United States,Management,Nov-21,19665,0.08,0.079334719
-US,United States,Management,Dec-21,20543,0.076722405,0.079267829
-US,United States,Management,Jan-22,25278,0.085555556,0.08075932
-US,United States,Management,Feb-22,26055,0.071428571,0.077902177
-US,United States,Management,Mar-22,35643,0.088235294,0.081739807
-US,United States,Management,Apr-22,35256,0.074074074,0.077912647
-US,United States,Management,May-22,37595,0.076923077,0.079744148
-US,United States,Management,Jun-22,36558,0.066666667,0.072554606
-US,United States,Management,Jul-22,45498,0.078125,0.073904915
-US,United States,Management,Aug-22,53843,0.068965517,0.071252395
-US,United States,Management,Sep-22,49025,0.052631579,0.066574032
-US,United States,Management,Oct-22,39192,0.068965517,0.063520871
-US,United States,Management,Nov-22,39498,0.071428571,0.064341889
-US,United States,Management,Dec-22,38758,0.071428571,0.070607553
-US,United States,Management,Jan-23,45743,0.076923077,0.073260073
-US,United States,Management,Feb-23,44206,0.074766355,0.074372668
-US,United States,Management,Mar-23,59419,0.067961172,0.073216868
-US,United States,Management,Apr-23,57507,0.061728395,0.068151974
+US,United States,Management,Nov-20,10000,0.041485503,0.039982347
+US,United States,Management,Dec-20,9420,0.045945946,0.04247715
+US,United States,Management,Jan-21,14842,0.035143099,0.040858183
+US,United States,Management,Feb-21,15950,0.041666667,0.04091857
+US,United States,Management,Mar-21,19942,0.031159781,0.035989849
+US,United States,Management,Apr-21,18627,0.048752228,0.040526225
+US,United States,Management,May-21,20461,0.071428571,0.05044686
+US,United States,Management,Jun-21,22239,0.076923077,0.065701292
+US,United States,Management,Jul-21,23062,0.08045977,0.076270473
+US,United States,Management,Aug-21,22491,0.076604444,0.077995764
+US,United States,Management,Sep-21,21605,0.076923077,0.077995764
+US,United States,Management,Oct-21,22463,0.081081081,0.078202867
+US,United States,Management,Nov-21,19664,0.08,0.079334719
+US,United States,Management,Dec-21,20540,0.076521732,0.079200938
+US,United States,Management,Jan-22,25282,0.086538462,0.081020065
+US,United States,Management,Feb-22,26057,0.071428571,0.078162922
+US,United States,Management,Mar-22,35644,0.088759823,0.082242285
+US,United States,Management,Apr-22,35259,0.074074074,0.07808749
+US,United States,Management,May-22,37597,0.076923077,0.079918991
+US,United States,Management,Jun-22,36561,0.066666667,0.072554606
+US,United States,Management,Jul-22,45499,0.078125,0.073904915
+US,United States,Management,Aug-22,53847,0.068965517,0.071252395
+US,United States,Management,Sep-22,49035,0.052631579,0.066574032
+US,United States,Management,Oct-22,39183,0.068965517,0.063520871
+US,United States,Management,Nov-22,39502,0.071428571,0.064341889
+US,United States,Management,Dec-22,38760,0.071428571,0.070607553
+US,United States,Management,Jan-23,45747,0.076923077,0.073260073
+US,United States,Management,Feb-23,44213,0.07469661,0.07434942
+US,United States,Management,Mar-23,59419,0.067961172,0.07319362
+US,United States,Management,Apr-23,57510,0.061728395,0.068128726
 US,United States,Management,May-23,60614,0.064227642,0.06463907
-US,United States,Management,Jun-23,58911,0.060606061,0.062187366
-US,United States,Management,Jul-23,57996,0.045454545,0.056762749
-US,United States,Management,Aug-23,64902,0.051229647,0.052430084
-US,United States,Management,Sep-23,57534,0.052631579,0.049771924
-US,United States,Management,Oct-23,60589,0.037847813,0.047236347
-US,United States,Management,Nov-23,52099,0.031313065,0.040597486
-US,United States,Management,Dec-23,46890,0.029411765,0.032857548
-US,United States,Management,Jan-24,59519,0.018181818,0.026302216
-US,United States,Management,Feb-24,55266,0.022003116,0.0231989
-US,United States,Management,Mar-24,67044,0.03033883,0.023507921
-US,United States,Management,Apr-24,60252,0.029411765,0.027251237
-US,United States,Management,May-24,63587,0.025585341,0.028445312
-US,United States,Management,Jun-24,55031,0.027777778,0.027591628
-US,United States,Management,Jul-24,53320,0.04368932,0.032350813
-US,United States,Management,Aug-24,57090,0.039275463,0.036914187
-US,United States,Management,Sep-24,50771,0.04109589,0.041353558
-US,United States,Management,Oct-24,53027,0.040595474,0.040322276
-US,United States,Management,Nov-24,41811,0.047619048,0.043103471
-US,United States,Management,Dec-24,40728,0.040757,0.042990507
-US,United States,Management,Jan-25,54015,0.044169746,0.044181932
-US,United States,Management,Feb-25,47186,0.03999968,0.041642142
-US,United States,Management,Mar-25,51619,0.042238124,0.04213585
-US,United States,Management,Apr-25,51736,0.04,0.040745935
-US,United States,Management,May-25,51609,0.043478261,0.041905462
-US,United States,Management,Jun-25,45242,0.037143315,0.040207192
-US,United States,Management,Jul-25,55167,0.024673782,0.035098453
-US,United States,Management,Aug-25,51287,0.027777778,0.029864958
-US,United States,Management,Sep-25,47746,0.027777778,0.026743113
-US,United States,Management,Oct-25,51661,0.025,0.026851852
-US,United States,Management,Nov-25,41415,0.025,0.025925926
+US,United States,Management,Jun-23,58914,0.060606061,0.062187366
+US,United States,Management,Jul-23,57998,0.045454545,0.056762749
+US,United States,Management,Aug-23,64902,0.05088496,0.052315189
+US,United States,Management,Sep-23,57539,0.052631579,0.049657028
+US,United States,Management,Oct-23,60589,0.037847813,0.047121451
+US,United States,Management,Nov-23,52099,0.03125,0.040576464
+US,United States,Management,Dec-23,46898,0.029411765,0.032836526
+US,United States,Management,Jan-24,59522,0.017857143,0.026172969
+US,United States,Management,Feb-24,55269,0.022108423,0.023125777
+US,United States,Management,Mar-24,67045,0.030503657,0.023489741
+US,United States,Management,Apr-24,60254,0.029411765,0.027341282
+US,United States,Management,May-24,63587,0.025641026,0.028518816
+US,United States,Management,Jun-24,55035,0.027777778,0.027610189
+US,United States,Management,Jul-24,53329,0.04417247,0.032530425
+US,United States,Management,Aug-24,57105,0.039289937,0.037080062
+US,United States,Management,Sep-24,50776,0.04109589,0.041519433
+US,United States,Management,Oct-24,53034,0.040540541,0.040308789
+US,United States,Management,Nov-24,41817,0.047619048,0.04308516
+US,United States,Management,Dec-24,40737,0.040757,0.042972196
+US,United States,Management,Jan-25,54036,0.043896774,0.044090941
+US,United States,Management,Feb-25,47207,0.04,0.041551258
+US,United States,Management,Mar-25,51631,0.042294644,0.042063806
+US,United States,Management,Apr-25,51754,0.04,0.040764881
+US,United States,Management,May-25,51651,0.043478261,0.041924302
+US,United States,Management,Jun-25,45269,0.037581208,0.040353156
+US,United States,Management,Jul-25,55174,0.024398701,0.035152723
+US,United States,Management,Aug-25,51303,0.028037383,0.030005764
+US,United States,Management,Sep-25,47764,0.027777778,0.026737954
+US,United States,Management,Oct-25,51723,0.024875621,0.026896927
+US,United States,Management,Nov-25,41482,0.024437341,0.025696914
+US,United States,Management,Dec-25,41800,0.026315789,0.025209584
 US,United States,Production & Manufacturing,Jan-19,3107,0.050641026,NA
 US,United States,Production & Manufacturing,Feb-19,2784,0.055555556,NA
 US,United States,Production & Manufacturing,Mar-19,4205,0.048390244,0.051528942
@@ -766,69 +775,70 @@ US,United States,Production & Manufacturing,May-20,4984,0.028571429,0.037019086
 US,United States,Production & Manufacturing,Jun-20,6237,0.022727273,0.033100591
 US,United States,Production & Manufacturing,Jul-20,7151,0.03030303,0.027200577
 US,United States,Production & Manufacturing,Aug-20,8248,0.038461538,0.03049728
-US,United States,Production & Manufacturing,Sep-20,7766,0.039449113,0.036071227
-US,United States,Production & Manufacturing,Oct-20,8722,0.039517392,0.039142681
-US,United States,Production & Manufacturing,Nov-20,5805,0.035714286,0.03822693
+US,United States,Production & Manufacturing,Sep-20,7766,0.03984127,0.036201946
+US,United States,Production & Manufacturing,Oct-20,8722,0.039517392,0.0392734
+US,United States,Production & Manufacturing,Nov-20,5805,0.035714286,0.038357649
 US,United States,Production & Manufacturing,Dec-20,5212,0.0527193,0.042650326
 US,United States,Production & Manufacturing,Jan-21,9095,0.04149449,0.043309359
 US,United States,Production & Manufacturing,Feb-21,10105,0.05,0.048071264
 US,United States,Production & Manufacturing,Mar-21,13563,0.055555556,0.049016682
 US,United States,Production & Manufacturing,Apr-21,12827,0.052631579,0.052729045
 US,United States,Production & Manufacturing,May-21,13367,0.09375,0.067312378
-US,United States,Production & Manufacturing,Jun-21,14307,0.096153846,0.080845142
-US,United States,Production & Manufacturing,Jul-21,14215,0.1,0.096634615
-US,United States,Production & Manufacturing,Aug-21,13056,0.092583238,0.096245695
-US,United States,Production & Manufacturing,Sep-21,13272,0.098476103,0.09701978
+US,United States,Production & Manufacturing,Jun-21,14308,0.096291209,0.080890929
+US,United States,Production & Manufacturing,Jul-21,14215,0.1,0.096680403
+US,United States,Production & Manufacturing,Aug-21,13056,0.092583238,0.096291482
+US,United States,Production & Manufacturing,Sep-21,13273,0.098476103,0.09701978
 US,United States,Production & Manufacturing,Oct-21,14040,0.109090909,0.100050083
 US,United States,Production & Manufacturing,Nov-21,10846,0.107692308,0.10508644
 US,United States,Production & Manufacturing,Dec-21,11312,0.105554358,0.107445858
 US,United States,Production & Manufacturing,Jan-22,15454,0.113636364,0.10896101
 US,United States,Production & Manufacturing,Feb-22,15445,0.102941176,0.107377299
-US,United States,Production & Manufacturing,Mar-22,20565,0.111111111,0.10922955
+US,United States,Production & Manufacturing,Mar-22,20566,0.111111111,0.10922955
 US,United States,Production & Manufacturing,Apr-22,19248,0.101254188,0.105102159
 US,United States,Production & Manufacturing,May-22,17868,0.090381875,0.100915725
-US,United States,Production & Manufacturing,Jun-22,18359,0.085907322,0.092514462
-US,United States,Production & Manufacturing,Jul-22,23140,0.08375001,0.086679736
-US,United States,Production & Manufacturing,Aug-22,28641,0.089305023,0.086320785
-US,United States,Production & Manufacturing,Sep-22,25308,0.074660419,0.082571817
-US,United States,Production & Manufacturing,Oct-22,20620,0.072463768,0.078809737
-US,United States,Production & Manufacturing,Nov-22,20534,0.058871215,0.068665134
+US,United States,Production & Manufacturing,Jun-22,18361,0.085907322,0.092514462
+US,United States,Production & Manufacturing,Jul-22,23140,0.083707674,0.086665624
+US,United States,Production & Manufacturing,Aug-22,28641,0.089305023,0.086306673
+US,United States,Production & Manufacturing,Sep-22,25309,0.074626866,0.082546521
+US,United States,Production & Manufacturing,Oct-22,20621,0.072463768,0.078798552
+US,United States,Production & Manufacturing,Nov-22,20534,0.058871215,0.06865395
 US,United States,Production & Manufacturing,Dec-22,19483,0.058823529,0.063386171
 US,United States,Production & Manufacturing,Jan-23,25218,0.055555556,0.0577501
 US,United States,Production & Manufacturing,Feb-23,23045,0.058387748,0.057588944
 US,United States,Production & Manufacturing,Mar-23,29159,0.052631579,0.055524961
 US,United States,Production & Manufacturing,Apr-23,26781,0.054054054,0.05502446
-US,United States,Production & Manufacturing,May-23,27130,0.047441451,0.051375695
-US,United States,Production & Manufacturing,Jun-23,27500,0.048331479,0.049942328
-US,United States,Production & Manufacturing,Jul-23,26360,0.04109589,0.04562294
-US,United States,Production & Manufacturing,Aug-23,30680,0.036690664,0.042039345
-US,United States,Production & Manufacturing,Sep-23,26128,0.032258065,0.03668154
-US,United States,Production & Manufacturing,Oct-23,24346,0.033333333,0.034094021
-US,United States,Production & Manufacturing,Nov-23,20387,0.033333333,0.03297491
-US,United States,Production & Manufacturing,Dec-23,18261,0.035714286,0.034126984
-US,United States,Production & Manufacturing,Jan-24,23725,0.033333333,0.034126984
+US,United States,Production & Manufacturing,May-23,27131,0.047567574,0.051417736
+US,United States,Production & Manufacturing,Jun-23,27500,0.048331479,0.049984369
+US,United States,Production & Manufacturing,Jul-23,26361,0.04109589,0.045664981
+US,United States,Production & Manufacturing,Aug-23,30679,0.036503478,0.041976949
+US,United States,Production & Manufacturing,Sep-23,26128,0.032258065,0.036619144
+US,United States,Production & Manufacturing,Oct-23,24347,0.033333333,0.034031625
+US,United States,Production & Manufacturing,Nov-23,20386,0.033333333,0.03297491
+US,United States,Production & Manufacturing,Dec-23,18260,0.035714286,0.034126984
+US,United States,Production & Manufacturing,Jan-24,23723,0.033333333,0.034126984
 US,United States,Production & Manufacturing,Feb-24,21866,0.031914894,0.033654171
-US,United States,Production & Manufacturing,Mar-24,24990,0.034482759,0.033243662
+US,United States,Production & Manufacturing,Mar-24,24989,0.034482759,0.033243662
 US,United States,Production & Manufacturing,Apr-24,22740,0.027027027,0.03114156
-US,United States,Production & Manufacturing,May-24,21638,0.027265509,0.029591765
-US,United States,Production & Manufacturing,Jun-24,20693,0.027027027,0.027106521
-US,United States,Production & Manufacturing,Jul-24,19449,0.029411765,0.027901434
-US,United States,Production & Manufacturing,Aug-24,21527,0.03003532,0.028824704
-US,United States,Production & Manufacturing,Sep-24,17951,0.03030303,0.029916705
-US,United States,Production & Manufacturing,Oct-24,18762,0.030199213,0.030179188
-US,United States,Production & Manufacturing,Nov-24,13713,0.026550752,0.029017665
-US,United States,Production & Manufacturing,Dec-24,11126,0.023857884,0.026869283
-US,United States,Production & Manufacturing,Jan-25,18325,0.024390244,0.02493296
-US,United States,Production & Manufacturing,Feb-25,16200,0.025,0.024416042
-US,United States,Production & Manufacturing,Mar-25,18613,0.026021545,0.025137263
-US,United States,Production & Manufacturing,Apr-25,18518,0.02363968,0.024887075
-US,United States,Production & Manufacturing,May-25,18407,0.02633479,0.025332005
-US,United States,Production & Manufacturing,Jun-25,16175,0.025269289,0.025081253
-US,United States,Production & Manufacturing,Jul-25,17782,0.026985753,0.026196611
-US,United States,Production & Manufacturing,Aug-25,18748,0.025641026,0.025965356
-US,United States,Production & Manufacturing,Sep-25,16082,0.031069074,0.027898617
-US,United States,Production & Manufacturing,Oct-25,17376,0.023513137,0.026741079
-US,United States,Production & Manufacturing,Nov-25,12530,0.029309361,0.027963857
+US,United States,Production & Manufacturing,May-24,21638,0.027332812,0.029614199
+US,United States,Production & Manufacturing,Jun-24,20693,0.027027027,0.027128955
+US,United States,Production & Manufacturing,Jul-24,19449,0.029411765,0.027923868
+US,United States,Production & Manufacturing,Aug-24,21532,0.030130853,0.028856548
+US,United States,Production & Manufacturing,Sep-24,17952,0.03030303,0.029948549
+US,United States,Production & Manufacturing,Oct-24,18760,0.03030303,0.030245638
+US,United States,Production & Manufacturing,Nov-24,13713,0.026550752,0.029052271
+US,United States,Production & Manufacturing,Dec-24,11126,0.024140514,0.026998099
+US,United States,Production & Manufacturing,Jan-25,18327,0.024390244,0.02502717
+US,United States,Production & Manufacturing,Feb-25,16198,0.025,0.024510253
+US,United States,Production & Manufacturing,Mar-25,18618,0.026136355,0.025175533
+US,United States,Production & Manufacturing,Apr-25,18523,0.023809524,0.02498196
+US,United States,Production & Manufacturing,May-25,18410,0.026222418,0.025389432
+US,United States,Production & Manufacturing,Jun-25,16176,0.025575615,0.025202519
+US,United States,Production & Manufacturing,Jul-25,17777,0.026944478,0.026247504
+US,United States,Production & Manufacturing,Aug-25,18756,0.025585665,0.026035253
+US,United States,Production & Manufacturing,Sep-25,16080,0.03125,0.027926714
+US,United States,Production & Manufacturing,Oct-25,17391,0.023809524,0.02688173
+US,United States,Production & Manufacturing,Nov-25,12551,0.02970297,0.028254165
+US,United States,Production & Manufacturing,Dec-25,11170,0.027777778,0.027096757
 US,United States,Dental,Jan-19,1168,0.03687498,NA
 US,United States,Dental,Feb-19,1158,0.052631579,NA
 US,United States,Dental,Mar-19,1516,0.032258065,0.040588208
@@ -843,10 +853,10 @@ US,United States,Dental,Nov-19,1488,0.027859389,0.039482892
 US,United States,Dental,Dec-19,1408,0.01273937,0.027056312
 US,United States,Dental,Jan-20,2814,0.0075,0.01603292
 US,United States,Dental,Feb-20,2685,0,0.006746457
-US,United States,Dental,Mar-20,1868,0,0.0025
+US,United States,Dental,Mar-20,1869,0,0.0025
 US,United States,Dental,Apr-20,1033,0,-0
 US,United States,Dental,May-20,4802,0,-0
-US,United States,Dental,Jun-20,5731,0.014705882,0.004901961
+US,United States,Dental,Jun-20,5732,0.014705882,0.004901961
 US,United States,Dental,Jul-20,5831,0.021253118,0.011986333
 US,United States,Dental,Aug-20,5725,0.022001934,0.019320312
 US,United States,Dental,Sep-20,5043,0.027952941,0.023735998
@@ -859,18 +869,18 @@ US,United States,Dental,Mar-21,7160,0.044776119,0.04855941
 US,United States,Dental,Apr-21,7028,0.065225097,0.054327891
 US,United States,Dental,May-21,6878,0.064102564,0.058034594
 US,United States,Dental,Jun-21,6925,0.056338028,0.061888563
-US,United States,Dental,Jul-21,6571,0.055555556,0.058665383
+US,United States,Dental,Jul-21,6570,0.055555556,0.058665383
 US,United States,Dental,Aug-21,5762,0.052631579,0.054841721
 US,United States,Dental,Sep-21,5688,0.055555556,0.054580897
-US,United States,Dental,Oct-21,5343,0.056272428,0.054819854
+US,United States,Dental,Oct-21,5344,0.056272428,0.054819854
 US,United States,Dental,Nov-21,4415,0.0625,0.058109328
 US,United States,Dental,Dec-21,5113,0.071428571,0.063400333
-US,United States,Dental,Jan-22,6084,0.066666667,0.066865079
+US,United States,Dental,Jan-22,6083,0.066666667,0.066865079
 US,United States,Dental,Feb-22,5577,0.049382716,0.062492651
 US,United States,Dental,Mar-22,7519,0.057983193,0.058010859
 US,United States,Dental,Apr-22,7900,0.066666667,0.058010859
 US,United States,Dental,May-22,7471,0.056663034,0.060437631
-US,United States,Dental,Jun-22,7896,0.052631579,0.05865376
+US,United States,Dental,Jun-22,7897,0.052631579,0.05865376
 US,United States,Dental,Jul-22,9752,0.060000004,0.056431539
 US,United States,Dental,Aug-22,11996,0.055555556,0.056062379
 US,United States,Dental,Sep-22,10165,0.055867665,0.057141075
@@ -888,122 +898,124 @@ US,United States,Dental,Aug-23,13795,0.0625,0.060163592
 US,United States,Dental,Sep-23,12105,0.05,0.057107843
 US,United States,Dental,Oct-23,11754,0.049230829,0.053910276
 US,United States,Dental,Nov-23,11071,0.052631579,0.050620803
-US,United States,Dental,Dec-23,9788,0.046745747,0.049536051
-US,United States,Dental,Jan-24,13778,0.05,0.049792442
-US,United States,Dental,Feb-24,12271,0.052631579,0.049792442
+US,United States,Dental,Dec-23,9787,0.046211527,0.049357978
+US,United States,Dental,Jan-24,13778,0.05,0.049614368
+US,United States,Dental,Feb-24,12270,0.052631579,0.049614368
 US,United States,Dental,Mar-24,12665,0.043929241,0.048853607
-US,United States,Dental,Apr-24,11915,0.05,0.048853607
-US,United States,Dental,May-24,12531,0.047219678,0.04704964
-US,United States,Dental,Jun-24,11453,0.041666667,0.046295448
-US,United States,Dental,Jul-24,11789,0.046730769,0.045205705
-US,United States,Dental,Aug-24,12504,0.04,0.042799145
-US,United States,Dental,Sep-24,10955,0.045454545,0.044061772
-US,United States,Dental,Oct-24,11285,0.046109422,0.043854656
-US,United States,Dental,Nov-24,9531,0.041666667,0.044410211
-US,United States,Dental,Dec-24,8330,0.041666667,0.043147585
-US,United States,Dental,Jan-25,13000,0.030348834,0.037894056
-US,United States,Dental,Feb-25,10422,0.031914894,0.034643465
-US,United States,Dental,Mar-25,11093,0.027272727,0.029845485
-US,United States,Dental,Apr-25,10672,0.023809524,0.027665715
-US,United States,Dental,May-25,10636,0.024390244,0.025157498
-US,United States,Dental,Jun-25,9331,0.040996399,0.029732055
-US,United States,Dental,Jul-25,10835,0.023809524,0.029732055
-US,United States,Dental,Aug-25,10720,0.025,0.029935307
-US,United States,Dental,Sep-25,9409,0.019877988,0.022895837
-US,United States,Dental,Oct-25,9878,0.025194187,0.023357392
-US,United States,Dental,Nov-25,7655,0.024365459,0.023145878
-US,United States,Nursing,Jan-19,6407,0.035608622,NA
-US,United States,Nursing,Feb-19,5776,0.029126214,NA
-US,United States,Nursing,Mar-19,7533,0.034090909,0.032941915
-US,United States,Nursing,Apr-19,7612,0.04,0.034405708
-US,United States,Nursing,May-19,8029,0.020620748,0.031570552
-US,United States,Nursing,Jun-19,8228,0.029269857,0.029963535
-US,United States,Nursing,Jul-19,7426,0.029411765,0.026434123
-US,United States,Nursing,Aug-19,8550,0.033333333,0.030671652
-US,United States,Nursing,Sep-19,6846,0.0375,0.033415033
-US,United States,Nursing,Oct-19,8613,0.024196986,0.031676773
-US,United States,Nursing,Nov-19,7538,0.021505376,0.027734121
-US,United States,Nursing,Dec-19,7192,0.023976001,0.023226121
-US,United States,Nursing,Jan-20,10939,0.008708739,0.018063372
-US,United States,Nursing,Feb-20,12473,0.023458895,0.018714545
-US,United States,Nursing,Mar-20,11222,0.022140523,0.018102719
-US,United States,Nursing,Apr-20,12069,0.040059412,0.028552943
-US,United States,Nursing,May-20,14420,0.029997872,0.030732602
-US,United States,Nursing,Jun-20,15157,0.022222222,0.030759835
-US,United States,Nursing,Jul-20,18662,0.020000013,0.024073369
-US,United States,Nursing,Aug-20,18865,0.033935971,0.025386069
-US,United States,Nursing,Sep-20,19832,0.032258065,0.02873135
-US,United States,Nursing,Oct-20,23348,0.033012618,0.033068885
-US,United States,Nursing,Nov-20,19665,0.043478261,0.036249648
-US,United States,Nursing,Dec-20,22101,0.058043234,0.044844704
-US,United States,Nursing,Jan-21,27258,0.060606061,0.054042519
-US,United States,Nursing,Feb-21,28517,0.064220183,0.060956493
-US,United States,Nursing,Mar-21,34286,0.061020511,0.061948918
-US,United States,Nursing,Apr-21,37090,0.055555556,0.060265417
-US,United States,Nursing,May-21,34785,0.081405925,0.065993997
-US,United States,Nursing,Jun-21,31887,0.09,0.075653827
-US,United States,Nursing,Jul-21,29803,0.085972832,0.085792919
-US,United States,Nursing,Aug-21,26242,0.085384626,0.087119153
-US,United States,Nursing,Sep-21,27934,0.087719298,0.086358919
-US,United States,Nursing,Oct-21,28687,0.102941176,0.092015033
-US,United States,Nursing,Nov-21,26699,0.096151618,0.095604031
-US,United States,Nursing,Dec-21,31771,0.098844193,0.099312329
-US,United States,Nursing,Jan-22,33137,0.101449275,0.098815029
-US,United States,Nursing,Feb-22,32451,0.097180439,0.099157969
-US,United States,Nursing,Mar-22,41155,0.086956522,0.095195412
-US,United States,Nursing,Apr-22,39700,0.097560976,0.093899312
-US,United States,Nursing,May-22,40041,0.090909091,0.091808863
-US,United States,Nursing,Jun-22,43581,0.087777774,0.092082613
-US,United States,Nursing,Jul-22,57298,0.088235294,0.088974053
-US,United States,Nursing,Aug-22,70886,0.073145291,0.083052786
-US,United States,Nursing,Sep-22,61972,0.076317447,0.079232677
-US,United States,Nursing,Oct-22,55382,0.062111801,0.070524847
-US,United States,Nursing,Nov-22,68749,0.053235278,0.063888176
-US,United States,Nursing,Dec-22,82606,0.050740185,0.055362421
-US,United States,Nursing,Jan-23,84419,0.051487728,0.051821064
-US,United States,Nursing,Feb-23,79500,0.046106558,0.049444824
-US,United States,Nursing,Mar-23,95234,0.047149828,0.048248038
-US,United States,Nursing,Apr-23,88848,0.040306311,0.044520899
-US,United States,Nursing,May-23,93960,0.04,0.04248538
-US,United States,Nursing,Jun-23,95043,0.031536232,0.037280848
-US,United States,Nursing,Jul-23,90933,0.025560925,0.032365719
-US,United States,Nursing,Aug-23,101356,0.024974341,0.027357166
-US,United States,Nursing,Sep-23,93906,0.024243315,0.024926194
-US,United States,Nursing,Oct-23,91918,0.024996619,0.024738092
-US,United States,Nursing,Nov-23,86760,0.023809524,0.024349819
-US,United States,Nursing,Dec-23,84146,0.017978345,0.022261496
-US,United States,Nursing,Jan-24,91324,0.015873016,0.019220295
-US,United States,Nursing,Feb-24,90261,0.026339636,0.020063666
-US,United States,Nursing,Mar-24,95218,0.025210084,0.022474245
-US,United States,Nursing,Apr-24,82264,0.0234375,0.02499574
-US,United States,Nursing,May-24,82379,0.020833333,0.023160306
-US,United States,Nursing,Jun-24,72190,0.026686025,0.023652286
-US,United States,Nursing,Jul-24,71288,0.028571429,0.025363596
-US,United States,Nursing,Aug-24,74933,0.026315789,0.027191081
-US,United States,Nursing,Sep-24,70207,0.028571429,0.027819549
-US,United States,Nursing,Oct-24,73719,0.025942042,0.026943087
-US,United States,Nursing,Nov-24,63806,0.02173913,0.025417534
-US,United States,Nursing,Dec-24,60813,0.022805185,0.023495453
-US,United States,Nursing,Jan-25,74262,0.024,0.022848105
-US,United States,Nursing,Feb-25,66484,0.016279043,0.021028076
-US,United States,Nursing,Mar-25,71166,0.025,0.021759681
-US,United States,Nursing,Apr-25,69917,0.019230769,0.020169937
-US,United States,Nursing,May-25,71710,0.023440142,0.022556971
-US,United States,Nursing,Jun-25,63140,0.018867925,0.020512945
-US,United States,Nursing,Jul-25,67768,0.016862294,0.019723454
-US,United States,Nursing,Aug-25,68351,0.020055526,0.018595248
-US,United States,Nursing,Sep-25,61028,0.012159066,0.016358962
-US,United States,Nursing,Oct-25,66649,0.01369863,0.015304407
-US,United States,Nursing,Nov-25,56321,0.010582307000000001,0.012146668
+US,United States,Dental,Apr-24,11916,0.05,0.048853607
+US,United States,Dental,May-24,12532,0.047219678,0.04704964
+US,United States,Dental,Jun-24,11449,0.041666667,0.046295448
+US,United States,Dental,Jul-24,11790,0.047352937,0.045413094
+US,United States,Dental,Aug-24,12504,0.040816327,0.043278643
+US,United States,Dental,Sep-24,10955,0.045454545,0.04454127
+US,United States,Dental,Oct-24,11286,0.045963366,0.044078079
+US,United States,Dental,Nov-24,9532,0.041666667,0.044361526
+US,United States,Dental,Dec-24,8330,0.041666667,0.0430989
+US,United States,Dental,Jan-25,12999,0.030348834,0.037894056
+US,United States,Dental,Feb-25,10421,0.033265118,0.035093539
+US,United States,Dental,Mar-25,11100,0.027272727,0.03029556
+US,United States,Dental,Apr-25,10674,0.023809524,0.02811579
+US,United States,Dental,May-25,10637,0.024390244,0.025157498
+US,United States,Dental,Jun-25,9335,0.041241497,0.029813755
+US,United States,Dental,Jul-25,10839,0.023809524,0.029813755
+US,United States,Dental,Aug-25,10718,0.024768841,0.029939954
+US,United States,Dental,Sep-25,9408,0.019877988,0.022818784
+US,United States,Dental,Oct-25,9875,0.027492624,0.024046484
+US,United States,Dental,Nov-25,7675,0.024840957,0.024070523
+US,United States,Dental,Dec-25,7669,0.037037037,0.029790206
+US,United States,Nursing,Jan-19,6406,0.036375661,NA
+US,United States,Nursing,Feb-19,5777,0.029126214,NA
+US,United States,Nursing,Mar-19,7532,0.035714286,0.03373872
+US,United States,Nursing,Apr-19,7614,0.040833333,0.035224611
+US,United States,Nursing,May-19,8029,0.021276596,0.032608072
+US,United States,Nursing,Jun-19,8228,0.028997734,0.030369221
+US,United States,Nursing,Jul-19,7420,0.030261307,0.026845212
+US,United States,Nursing,Aug-19,8545,0.032940109,0.03073305
+US,United States,Nursing,Sep-19,6833,0.037037037,0.033412818
+US,United States,Nursing,Oct-19,8610,0.024196986,0.031391377
+US,United States,Nursing,Nov-19,7533,0.021505376,0.0275798
+US,United States,Nursing,Dec-19,7188,0.023976001,0.023226121
+US,United States,Nursing,Jan-20,10946,0.00862069,0.018034022
+US,United States,Nursing,Feb-20,12476,0.023255814,0.018617501
+US,United States,Nursing,Mar-20,11230,0.02173913,0.017871878
+US,United States,Nursing,Apr-20,12075,0.040970369,0.028655105
+US,United States,Nursing,May-20,14418,0.029997872,0.030902457
+US,United States,Nursing,Jun-20,15157,0.022222222,0.031063488
+US,United States,Nursing,Jul-20,18664,0.020000052,0.024073382
+US,United States,Nursing,Aug-20,18864,0.033744449,0.025322241
+US,United States,Nursing,Sep-20,19829,0.032258065,0.028667522
+US,United States,Nursing,Oct-20,23351,0.033707865,0.033236793
+US,United States,Nursing,Nov-20,19657,0.043478261,0.036481397
+US,United States,Nursing,Dec-20,22098,0.058608845,0.04526499
+US,United States,Nursing,Jan-21,27260,0.060344828,0.054143978
+US,United States,Nursing,Feb-21,28516,0.064220183,0.061057952
+US,United States,Nursing,Mar-21,34284,0.060857146,0.061807386
+US,United States,Nursing,Apr-21,37092,0.055555556,0.060210962
+US,United States,Nursing,May-21,34785,0.081730769,0.066047824
+US,United States,Nursing,Jun-21,31887,0.09,0.075762108
+US,United States,Nursing,Jul-21,29803,0.085526316,0.085752362
+US,United States,Nursing,Aug-21,26244,0.086956522,0.087494279
+US,United States,Nursing,Sep-21,27936,0.087719298,0.086734045
+US,United States,Nursing,Oct-21,28690,0.102040816,0.092238879
+US,United States,Nursing,Nov-21,26707,0.096654275,0.095471463
+US,United States,Nursing,Dec-21,31774,0.098778125,0.099157739
+US,United States,Nursing,Jan-22,33131,0.101449275,0.098960558
+US,United States,Nursing,Feb-22,32450,0.097314464,0.099180621
+US,United States,Nursing,Mar-22,41148,0.086956522,0.095240087
+US,United States,Nursing,Apr-22,39703,0.097560976,0.093943987
+US,United States,Nursing,May-22,40043,0.090909091,0.091808863
+US,United States,Nursing,Jun-22,43584,0.087748536,0.092072867
+US,United States,Nursing,Jul-22,57305,0.088256,0.088971209
+US,United States,Nursing,Aug-22,70873,0.072967173,0.08299057
+US,United States,Nursing,Sep-22,61976,0.076190476,0.079137883
+US,United States,Nursing,Oct-22,55383,0.061946903,0.070368184
+US,United States,Nursing,Nov-22,68746,0.052738554,0.063625311
+US,United States,Nursing,Dec-22,82605,0.050538474,0.055074643
+US,United States,Nursing,Jan-23,84403,0.051487728,0.051588252
+US,United States,Nursing,Feb-23,79509,0.046106558,0.049377587
+US,United States,Nursing,Mar-23,95232,0.046875,0.048156429
+US,United States,Nursing,Apr-23,88851,0.040131828,0.044371129
+US,United States,Nursing,May-23,93953,0.04,0.042335609
+US,United States,Nursing,Jun-23,95050,0.031293413,0.037141747
+US,United States,Nursing,Jul-23,90934,0.025560925,0.03228478
+US,United States,Nursing,Aug-23,101358,0.024974341,0.027276227
+US,United States,Nursing,Sep-23,93910,0.024243315,0.024926194
+US,United States,Nursing,Oct-23,91928,0.024864286,0.024693981
+US,United States,Nursing,Nov-23,86764,0.023809524,0.024305708
+US,United States,Nursing,Dec-23,84147,0.017978345,0.022217385
+US,United States,Nursing,Jan-24,91341,0.015873016,0.019220295
+US,United States,Nursing,Feb-24,90261,0.026704853,0.020185405
+US,United States,Nursing,Mar-24,95219,0.025097243,0.022558371
+US,United States,Nursing,Apr-24,82264,0.023346657,0.025049585
+US,United States,Nursing,May-24,82411,0.021465731,0.02330321
+US,United States,Nursing,Jun-24,72193,0.026666667,0.023826351
+US,United States,Nursing,Jul-24,71288,0.028571429,0.025567942
+US,United States,Nursing,Aug-24,74937,0.026234818,0.027157638
+US,United States,Nursing,Sep-24,70216,0.028566235,0.027790827
+US,United States,Nursing,Oct-24,73691,0.026315789,0.027038948
+US,United States,Nursing,Nov-24,63802,0.02173913,0.025540385
+US,United States,Nursing,Dec-24,60815,0.022578768,0.023544562
+US,United States,Nursing,Jan-25,74258,0.024390224,0.022902707
+US,United States,Nursing,Feb-25,66492,0.016322759,0.02109725
+US,United States,Nursing,Mar-25,71200,0.025161312,0.021958099
+US,United States,Nursing,Apr-25,69938,0.019302314,0.020262129
+US,United States,Nursing,May-25,71727,0.023255814,0.022573147
+US,United States,Nursing,Jun-25,63155,0.018821235,0.020459788
+US,United States,Nursing,Jul-25,67776,0.017036586,0.019704545
+US,United States,Nursing,Aug-25,68364,0.020079644,0.018645822
+US,United States,Nursing,Sep-25,61075,0.012269939,0.016462056
+US,United States,Nursing,Oct-25,66699,0.013888889,0.015412824
+US,United States,Nursing,Nov-25,56395,0.010830264,0.012329697
+US,United States,Nursing,Dec-25,54581,0.011020036,0.011913063
 US,United States,Medical Technician,Jan-19,2108,0.037749288,NA
 US,United States,Medical Technician,Feb-19,1878,0.028912911,NA
-US,United States,Medical Technician,Mar-19,2567,0.037386443,0.034682881
-US,United States,Medical Technician,Apr-19,2607,0.041666667,0.035988674
-US,United States,Medical Technician,May-19,2740,0.037735849,0.038929653
+US,United States,Medical Technician,Mar-19,2565,0.037037037,0.034566412
+US,United States,Medical Technician,Apr-19,2607,0.041666667,0.035872205
+US,United States,Medical Technician,May-19,2740,0.037735849,0.038813184
 US,United States,Medical Technician,Jun-19,2523,0.019803922,0.033068812
-US,United States,Medical Technician,Jul-19,2331,0.03497867,0.03083948
-US,United States,Medical Technician,Aug-19,2809,0.028991597,0.027924729
-US,United States,Medical Technician,Sep-19,1990,0.032258065,0.03207611
+US,United States,Medical Technician,Jul-19,2331,0.035594433,0.031044735
+US,United States,Medical Technician,Aug-19,2809,0.028991597,0.028129984
+US,United States,Medical Technician,Sep-19,1991,0.032258065,0.032281365
 US,United States,Medical Technician,Oct-19,2850,0.036363636,0.032537766
 US,United States,Medical Technician,Nov-19,2530,0.049820896,0.039480865
 US,United States,Medical Technician,Dec-19,2219,0.034482759,0.040222430000000003
@@ -1013,10 +1025,10 @@ US,United States,Medical Technician,Mar-20,3469,0.019845279,0.028506145
 US,United States,Medical Technician,Apr-20,2460,0.05,0.032352299
 US,United States,Medical Technician,May-20,4373,0.03030303,0.03338277
 US,United States,Medical Technician,Jun-20,5283,0.037037037,0.039113356
-US,United States,Medical Technician,Jul-20,6606,0.036700337,0.034680135
+US,United States,Medical Technician,Jul-20,6605,0.036700337,0.034680135
 US,United States,Medical Technician,Aug-20,6967,0.04,0.037912458
-US,United States,Medical Technician,Sep-20,7117,0.020408163,0.0323695
-US,United States,Medical Technician,Oct-20,8282,0.038461538,0.032956567
+US,United States,Medical Technician,Sep-20,7116,0.020408163,0.0323695
+US,United States,Medical Technician,Oct-20,8281,0.038461538,0.032956567
 US,United States,Medical Technician,Nov-20,6335,0.03125,0.030039901
 US,United States,Medical Technician,Dec-20,6678,0.05,0.039903846
 US,United States,Medical Technician,Jan-21,9300,0.032451476,0.037900492
@@ -1024,66 +1036,67 @@ US,United States,Medical Technician,Feb-21,9199,0.053667435,0.04537297
 US,United States,Medical Technician,Mar-21,10988,0.056603774,0.047574228
 US,United States,Medical Technician,Apr-21,11017,0.050847458,0.053706222
 US,United States,Medical Technician,May-21,11387,0.080645161,0.062698798
-US,United States,Medical Technician,Jun-21,11195,0.066666667,0.066053095
-US,United States,Medical Technician,Jul-21,11167,0.066666667,0.071326165
+US,United States,Medical Technician,Jun-21,11194,0.066666667,0.066053095
+US,United States,Medical Technician,Jul-21,11166,0.066666667,0.071326165
 US,United States,Medical Technician,Aug-21,10849,0.076923077,0.07008547
-US,United States,Medical Technician,Sep-21,11073,0.086956522,0.076848755
-US,United States,Medical Technician,Oct-21,11437,0.085714286,0.083197961
-US,United States,Medical Technician,Nov-21,10006,0.111111111,0.094593973
-US,United States,Medical Technician,Dec-21,11592,0.096774194,0.09786653
+US,United States,Medical Technician,Sep-21,11073,0.087611111,0.077066952
+US,United States,Medical Technician,Oct-21,11437,0.085714286,0.083416158
+US,United States,Medical Technician,Nov-21,10007,0.111111111,0.094812169
+US,United States,Medical Technician,Dec-21,11595,0.096774194,0.09786653
 US,United States,Medical Technician,Jan-22,12941,0.1,0.102628435
-US,United States,Medical Technician,Feb-22,11773,0.092783505,0.096519233
+US,United States,Medical Technician,Feb-22,11774,0.092783505,0.096519233
 US,United States,Medical Technician,Mar-22,15451,0.099004582,0.097262696
 US,United States,Medical Technician,Apr-22,15240,0.096774194,0.096187427
-US,United States,Medical Technician,May-22,14312,0.087719298,0.094499358
-US,United States,Medical Technician,Jun-22,15747,0.102941176,0.095811556
-US,United States,Medical Technician,Jul-22,19633,0.092019887,0.094226787
-US,United States,Medical Technician,Aug-22,23946,0.079365079,0.091442048
+US,United States,Medical Technician,May-22,14313,0.087719298,0.094499358
+US,United States,Medical Technician,Jun-22,15749,0.102941176,0.095811556
+US,United States,Medical Technician,Jul-22,19634,0.092019887,0.094226787
+US,United States,Medical Technician,Aug-22,23945,0.079365079,0.091442048
 US,United States,Medical Technician,Sep-22,21583,0.070216257,0.080533741
 US,United States,Medical Technician,Oct-22,19027,0.069444444,0.073008594
-US,United States,Medical Technician,Nov-22,21476,0.065503432,0.068388045
-US,United States,Medical Technician,Dec-22,23244,0.072463768,0.069137215
-US,United States,Medical Technician,Jan-23,26643,0.060606061,0.066191087
-US,United States,Medical Technician,Feb-23,25592,0.0625,0.065189943
-US,United States,Medical Technician,Mar-23,32582,0.064204296,0.062436786
+US,United States,Medical Technician,Nov-22,21480,0.065982972,0.068547891
+US,United States,Medical Technician,Dec-22,23250,0.072463768,0.069297062
+US,United States,Medical Technician,Jan-23,26646,0.060606061,0.066350934
+US,United States,Medical Technician,Feb-23,25593,0.0625,0.065189943
+US,United States,Medical Technician,Mar-23,32584,0.064204296,0.062436786
 US,United States,Medical Technician,Apr-23,29982,0.058823529,0.061842609
-US,United States,Medical Technician,May-23,31894,0.057532191,0.060186672
-US,United States,Medical Technician,Jun-23,31340,0.051899986,0.056085236
-US,United States,Medical Technician,Jul-23,30178,0.045454545,0.051628908
-US,United States,Medical Technician,Aug-23,34469,0.053309521,0.050221351
-US,United States,Medical Technician,Sep-23,31381,0.050632911,0.049798992
-US,United States,Medical Technician,Oct-23,30007,0.045581374,0.049841269
-US,United States,Medical Technician,Nov-23,28799,0.036923091,0.044379125
+US,United States,Medical Technician,May-23,31894,0.057261903,0.060096576
+US,United States,Medical Technician,Jun-23,31343,0.051812062,0.055965831
+US,United States,Medical Technician,Jul-23,30178,0.045345388,0.051473118
+US,United States,Medical Technician,Aug-23,34469,0.053083763,0.050080404
+US,United States,Medical Technician,Sep-23,31382,0.050183626,0.049537592
+US,United States,Medical Technician,Oct-23,30007,0.045581374,0.049616254
+US,United States,Medical Technician,Nov-23,28799,0.036923091,0.044229364
 US,United States,Medical Technician,Dec-23,27045,0.038206544,0.040237003
-US,United States,Medical Technician,Jan-24,32411,0.036793315,0.03730765
-US,United States,Medical Technician,Feb-24,31369,0.033333333,0.036111064
-US,United States,Medical Technician,Mar-24,33623,0.025698189,0.031941612
-US,United States,Medical Technician,Apr-24,31334,0.024125114,0.027718879
-US,United States,Medical Technician,May-24,32241,0.032258065,0.027360456
-US,United States,Medical Technician,Jun-24,30099,0.026315789,0.027566322
-US,United States,Medical Technician,Jul-24,30167,0.028658069,0.029077308
-US,United States,Medical Technician,Aug-24,33260,0.026666667,0.027213508
-US,United States,Medical Technician,Sep-24,28989,0.03030303,0.028542589
-US,United States,Medical Technician,Oct-24,30499,0.030189793,0.029053163
-US,United States,Medical Technician,Nov-24,26639,0.035714286,0.032069036
-US,United States,Medical Technician,Dec-24,24202,0.030021463,0.031975181
-US,United States,Medical Technician,Jan-25,31210,0.030816714,0.032184154
-US,United States,Medical Technician,Feb-25,27776,0.037171188,0.032669788
-US,United States,Medical Technician,Mar-25,29727,0.038461538,0.035483147
-US,United States,Medical Technician,Apr-25,29902,0.037736328,0.037789685
-US,United States,Medical Technician,May-25,28190,0.03002072,0.035406196
-US,United States,Medical Technician,Jun-25,25825,0.03,0.032585683
-US,United States,Medical Technician,Jul-25,28086,0.02839283,0.029471184
-US,United States,Medical Technician,Aug-25,28770,0.03419876,0.030863864
-US,United States,Medical Technician,Sep-25,24764,0.027777778,0.030123123
-US,United States,Medical Technician,Oct-25,27916,0.023809524,0.028595354
-US,United States,Medical Technician,Nov-25,22620,0.022727273,0.024771525
+US,United States,Medical Technician,Jan-24,32415,0.036923091,0.037350909
+US,United States,Medical Technician,Feb-24,31370,0.033333333,0.036154323
+US,United States,Medical Technician,Mar-24,33625,0.025698189,0.031984871
+US,United States,Medical Technician,Apr-24,31339,0.024220776,0.027750766
+US,United States,Medical Technician,May-24,32247,0.032258065,0.027392343
+US,United States,Medical Technician,Jun-24,30100,0.026315789,0.02759821
+US,United States,Medical Technician,Jul-24,30171,0.028895201,0.029156351
+US,United States,Medical Technician,Aug-24,33263,0.026720429,0.027310473
+US,United States,Medical Technician,Sep-24,28996,0.030418691,0.028678107
+US,United States,Medical Technician,Oct-24,30506,0.030277574,0.029138898
+US,United States,Medical Technician,Nov-24,26649,0.035763636,0.0321533
+US,United States,Medical Technician,Dec-24,24203,0.030055283,0.032032164
+US,United States,Medical Technician,Jan-25,31214,0.030678252,0.032165724
+US,United States,Medical Technician,Feb-25,27780,0.037234085,0.032655873
+US,United States,Medical Technician,Mar-25,29734,0.039192116,0.035701484
+US,United States,Medical Technician,Apr-25,29911,0.037629814,0.038018671
+US,United States,Medical Technician,May-25,28200,0.030140805,0.035654245
+US,United States,Medical Technician,Jun-25,25823,0.029999965,0.032590194
+US,United States,Medical Technician,Jul-25,28082,0.028529833,0.029556868
+US,United States,Medical Technician,Aug-25,28774,0.034830921,0.03112024
+US,United States,Medical Technician,Sep-25,24771,0.027777778,0.030379511
+US,United States,Medical Technician,Oct-25,27939,0.023696682,0.028768461
+US,United States,Medical Technician,Nov-25,22684,0.023255814,0.024910091
+US,United States,Medical Technician,Dec-25,21987,0.014084507,0.020345668
 US,United States,Security & Public Safety,Jan-19,3738,0.025641026,NA
 US,United States,Security & Public Safety,Feb-19,3742,0.03662783,NA
 US,United States,Security & Public Safety,Mar-19,5855,0.030338258,0.030869038
-US,United States,Security & Public Safety,Apr-19,5651,0.02248828,0.029818123
-US,United States,Security & Public Safety,May-19,5983,0.034482759,0.029103099
-US,United States,Security & Public Safety,Jun-19,5225,0.034921721,0.03063092
+US,United States,Security & Public Safety,Apr-19,5650,0.021881673,0.02961592
+US,United States,Security & Public Safety,May-19,5983,0.034482759,0.028900896
+US,United States,Security & Public Safety,Jun-19,5225,0.034921721,0.030428717
 US,United States,Security & Public Safety,Jul-19,4818,0.02451174,0.031305406
 US,United States,Security & Public Safety,Aug-19,5666,0.031088928,0.030174129
 US,United States,Security & Public Safety,Sep-19,3975,0.014949554,0.02351674
@@ -1101,22 +1114,22 @@ US,United States,Security & Public Safety,Aug-20,7093,0.017857143,0.018668845
 US,United States,Security & Public Safety,Sep-20,6534,0.03349752,0.023545377
 US,United States,Security & Public Safety,Oct-20,7457,0.029376278,0.026910314
 US,United States,Security & Public Safety,Nov-20,5901,0.02910917,0.030660989
-US,United States,Security & Public Safety,Dec-20,5836,0.02,0.026161816
+US,United States,Security & Public Safety,Dec-20,5837,0.02,0.026161816
 US,United States,Security & Public Safety,Jan-21,7870,0.022131081,0.023746751
 US,United States,Security & Public Safety,Feb-21,7465,0.032313028,0.024814703
 US,United States,Security & Public Safety,Mar-21,10923,0.03125,0.028564703
 US,United States,Security & Public Safety,Apr-21,11198,0.029137199,0.030900076
-US,United States,Security & Public Safety,May-21,10785,0.052631579,0.037672926
+US,United States,Security & Public Safety,May-21,10786,0.052631579,0.037672926
 US,United States,Security & Public Safety,Jun-21,10937,0.069204981,0.050324586
 US,United States,Security & Public Safety,Jul-21,11399,0.071428571,0.06442171
 US,United States,Security & Public Safety,Aug-21,10502,0.072797464,0.071143672
 US,United States,Security & Public Safety,Sep-21,9204,0.085333316,0.076519784
 US,United States,Security & Public Safety,Oct-21,9936,0.083333333,0.080488038
 US,United States,Security & Public Safety,Nov-21,8528,0.103448276,0.090704975
-US,United States,Security & Public Safety,Dec-21,9041,0.108347822,0.098376477
-US,United States,Security & Public Safety,Jan-22,11073,0.12,0.110598699
-US,United States,Security & Public Safety,Feb-22,10772,0.109467015,0.112604946
-US,United States,Security & Public Safety,Mar-22,14693,0.116391962,0.115286326
+US,United States,Security & Public Safety,Dec-21,9043,0.107999992,0.098260534
+US,United States,Security & Public Safety,Jan-22,11073,0.12,0.110482756
+US,United States,Security & Public Safety,Feb-22,10772,0.109467015,0.112489003
+US,United States,Security & Public Safety,Mar-22,14694,0.116391962,0.115286326
 US,United States,Security & Public Safety,Apr-22,14952,0.12,0.115286326
 US,United States,Security & Public Safety,May-22,13576,0.102941176,0.113111046
 US,United States,Security & Public Safety,Jun-22,13269,0.1,0.107647059
@@ -1126,46 +1139,47 @@ US,United States,Security & Public Safety,Sep-22,14210,0.088460182,0.092479293
 US,United States,Security & Public Safety,Oct-22,12947,0.079300289,0.088210969
 US,United States,Security & Public Safety,Nov-22,14073,0.081706713,0.083155728
 US,United States,Security & Public Safety,Dec-22,14738,0.083333333,0.081446778
-US,United States,Security & Public Safety,Jan-23,15882,0.061523672,0.07552124
+US,United States,Security & Public Safety,Jan-23,15883,0.061523672,0.07552124
 US,United States,Security & Public Safety,Feb-23,14686,0.072368015,0.07240834
-US,United States,Security & Public Safety,Mar-23,18448,0.070175439,0.068022375
-US,United States,Security & Public Safety,Apr-23,17342,0.073544491,0.072029315
-US,United States,Security & Public Safety,May-23,16298,0.061670024,0.068463318
-US,United States,Security & Public Safety,Jun-23,15816,0.060475444,0.065229987
-US,United States,Security & Public Safety,Jul-23,16452,0.055555556,0.059233675
-US,United States,Security & Public Safety,Aug-23,19498,0.049295775,0.055108925
-US,United States,Security & Public Safety,Sep-23,16546,0.045296151,0.05004916
-US,United States,Security & Public Safety,Oct-23,16978,0.036363897,0.043651941
-US,United States,Security & Public Safety,Nov-23,14877,0.040080161,0.04058007
-US,United States,Security & Public Safety,Dec-23,14522,0.043478261,0.039974106
+US,United States,Security & Public Safety,Mar-23,18449,0.070893344,0.068261677
+US,United States,Security & Public Safety,Apr-23,17343,0.073544491,0.072268617
+US,United States,Security & Public Safety,May-23,16298,0.061670024,0.06870262
+US,United States,Security & Public Safety,Jun-23,15817,0.060308836,0.06517445
+US,United States,Security & Public Safety,Jul-23,16451,0.055555556,0.059178139
+US,United States,Security & Public Safety,Aug-23,19497,0.049558383,0.055140925
+US,United States,Security & Public Safety,Sep-23,16546,0.045296151,0.050136697
+US,United States,Security & Public Safety,Oct-23,16978,0.036363897,0.043739477
+US,United States,Security & Public Safety,Nov-23,14878,0.040080161,0.04058007
+US,United States,Security & Public Safety,Dec-23,14521,0.043478261,0.039974106
 US,United States,Security & Public Safety,Jan-24,16898,0.040576911,0.041378444
-US,United States,Security & Public Safety,Feb-24,16450,0.03025534,0.038103504
-US,United States,Security & Public Safety,Mar-24,19422,0.036299087,0.035710446
-US,United States,Security & Public Safety,Apr-24,17832,0.032608717,0.033054381
-US,United States,Security & Public Safety,May-24,15781,0.039999973,0.036302592
-US,United States,Security & Public Safety,Jun-24,13732,0.051282051,0.041296914
-US,United States,Security & Public Safety,Jul-24,13619,0.049786691,0.047022905
-US,United States,Security & Public Safety,Aug-24,15235,0.0535316,0.051533447
-US,United States,Security & Public Safety,Sep-24,12464,0.052631579,0.05198329
-US,United States,Security & Public Safety,Oct-24,13426,0.05,0.052054393
-US,United States,Security & Public Safety,Nov-24,10919,0.055555556,0.052729045
-US,United States,Security & Public Safety,Dec-24,9577,0.049975712,0.051843756
-US,United States,Security & Public Safety,Jan-25,13330,0.046819435,0.050783567
-US,United States,Security & Public Safety,Feb-25,11905,0.052459568,0.049751571
-US,United States,Security & Public Safety,Mar-25,12695,0.036585366,0.045288123
-US,United States,Security & Public Safety,Apr-25,12609,0.046331087,0.04512534
-US,United States,Security & Public Safety,May-25,12049,0.032786885,0.038567779
-US,United States,Security & Public Safety,Jun-25,10610,0.028571429,0.035896467
-US,United States,Security & Public Safety,Jul-25,11484,0.025270282,0.028876198
-US,United States,Security & Public Safety,Aug-25,12181,0.02602605,0.026622587
-US,United States,Security & Public Safety,Sep-25,10035,0.030002012,0.027099448
-US,United States,Security & Public Safety,Oct-25,11160,0.025641026,0.027223029
-US,United States,Security & Public Safety,Nov-25,8751,0.023769169,0.026470735
-US,United States,Retail,Jan-19,5206,0.038888889,NA
+US,United States,Security & Public Safety,Feb-24,16451,0.03025534,0.038103504
+US,United States,Security & Public Safety,Mar-24,19421,0.036299087,0.035710446
+US,United States,Security & Public Safety,Apr-24,17832,0.032645652,0.033066693
+US,United States,Security & Public Safety,May-24,15780,0.04,0.036314913
+US,United States,Security & Public Safety,Jun-24,13733,0.051282051,0.041309235
+US,United States,Security & Public Safety,Jul-24,13617,0.049786691,0.047022914
+US,United States,Security & Public Safety,Aug-24,15236,0.0535316,0.051533447
+US,United States,Security & Public Safety,Sep-24,12465,0.052631579,0.05198329
+US,United States,Security & Public Safety,Oct-24,13426,0.050028953,0.052064044
+US,United States,Security & Public Safety,Nov-24,10922,0.055555556,0.052738696
+US,United States,Security & Public Safety,Dec-24,9576,0.04998703,0.05185718
+US,United States,Security & Public Safety,Jan-25,13328,0.046665531,0.050736039
+US,United States,Security & Public Safety,Feb-25,11906,0.052392181,0.049681581
+US,United States,Security & Public Safety,Mar-25,12694,0.036709608,0.045255773
+US,United States,Security & Public Safety,Apr-25,12615,0.046331087,0.045144292
+US,United States,Security & Public Safety,May-25,12053,0.032556065,0.038532253
+US,United States,Security & Public Safety,Jun-25,10609,0.028571429,0.035819527
+US,United States,Security & Public Safety,Jul-25,11488,0.025616242,0.028914578
+US,United States,Security & Public Safety,Aug-25,12196,0.026077318,0.026754996
+US,United States,Security & Public Safety,Sep-25,10043,0.030002012,0.027231857
+US,United States,Security & Public Safety,Oct-25,11178,0.025641026,0.027240119
+US,United States,Security & Public Safety,Nov-25,8768,0.024999629,0.026880889
+US,United States,Security & Public Safety,Dec-25,8168,0.019904458,0.023515038
+US,United States,Retail,Jan-19,5206,0.038461538,NA
 US,United States,Retail,Feb-19,5688,0.041666667,NA
-US,United States,Retail,Mar-19,8409,0.045454545,0.042003367
-US,United States,Retail,Apr-19,8950,0.043478261,0.043533158
-US,United States,Retail,May-19,8920,0.043478261,0.044137022
+US,United States,Retail,Mar-19,8410,0.045069911,0.041732705
+US,United States,Retail,Apr-19,8950,0.043478261,0.043404946
+US,United States,Retail,May-19,8920,0.043478261,0.044008811
 US,United States,Retail,Jun-19,7041,0.037974684,0.041643735
 US,United States,Retail,Jul-19,7117,0.037735849,0.039729598
 US,United States,Retail,Aug-19,8937,0.025641026,0.033783853
@@ -1179,20 +1193,20 @@ US,United States,Retail,Mar-20,8967,0.024390244,0.023923467
 US,United States,Retail,Apr-20,5563,0.009349056,0.01849281
 US,United States,Retail,May-20,10218,0.004728132,0.012822477
 US,United States,Retail,Jun-20,12267,0.015228426,0.009768538
-US,United States,Retail,Jul-20,14810,0.036269437,0.018741999
-US,United States,Retail,Aug-20,17412,0.034482759,0.028660207
+US,United States,Retail,Jul-20,14811,0.036269437,0.018741999
+US,United States,Retail,Aug-20,17413,0.034482759,0.028660207
 US,United States,Retail,Sep-20,16788,0.032258065,0.034336753
-US,United States,Retail,Oct-20,19346,0.037037037,0.03459262
+US,United States,Retail,Oct-20,19347,0.037037037,0.03459262
 US,United States,Retail,Nov-20,13536,0.043478261,0.037591121
 US,United States,Retail,Dec-20,11424,0.033333333,0.037949544
 US,United States,Retail,Jan-21,16072,0.037037037,0.037949544
-US,United States,Retail,Feb-21,16884,0.047619048,0.039329806
-US,United States,Retail,Mar-21,25070,0.066666667,0.050440917
-US,United States,Retail,Apr-21,23874,0.087719298,0.067335004
-US,United States,Retail,May-21,24215,0.109625,0.088003655
+US,United States,Retail,Feb-21,16885,0.047619048,0.039329806
+US,United States,Retail,Mar-21,25069,0.066666667,0.050440917
+US,United States,Retail,Apr-21,23875,0.087719298,0.067335004
+US,United States,Retail,May-21,24216,0.109625,0.088003655
 US,United States,Retail,Jun-21,24517,0.107142857,0.101495718
 US,United States,Retail,Jul-21,26021,0.098993317,0.105253725
-US,United States,Retail,Aug-21,26035,0.107142857,0.104426344
+US,United States,Retail,Aug-21,26036,0.107142857,0.104426344
 US,United States,Retail,Sep-21,25903,0.102801383,0.102979186
 US,United States,Retail,Oct-21,27174,0.117647059,0.1091971
 US,United States,Retail,Nov-21,23237,0.111111111,0.110519851
@@ -1202,48 +1216,49 @@ US,United States,Retail,Feb-22,24465,0.12,0.118326796
 US,United States,Retail,Mar-22,33893,0.107142857,0.114988794
 US,United States,Retail,Apr-22,32022,0.096774194,0.10797235
 US,United States,Retail,May-22,33618,0.085910652,0.096609234
-US,United States,Retail,Jun-22,30965,0.083333333,0.088672726
-US,United States,Retail,Jul-22,39698,0.074074074,0.08110602
-US,United States,Retail,Aug-22,50342,0.08,0.079135802
-US,United States,Retail,Sep-22,44129,0.06971744,0.074597171
-US,United States,Retail,Oct-22,42990,0.0625,0.070739147
-US,United States,Retail,Nov-22,44510,0.055555556,0.062590999
-US,United States,Retail,Dec-22,35853,0.057142857,0.058399471
+US,United States,Retail,Jun-22,30964,0.083333333,0.088672726
+US,United States,Retail,Jul-22,39699,0.074074074,0.08110602
+US,United States,Retail,Aug-22,50347,0.08,0.079135802
+US,United States,Retail,Sep-22,44131,0.069683622,0.074585899
+US,United States,Retail,Oct-22,42992,0.0625,0.070727874
+US,United States,Retail,Nov-22,44509,0.055555556,0.062579726
+US,United States,Retail,Dec-22,35855,0.057142857,0.058399471
 US,United States,Retail,Jan-23,40763,0.058823529,0.057173981
-US,United States,Retail,Feb-23,41592,0.055777778,0.057248055
-US,United States,Retail,Mar-23,51388,0.058823529,0.057808279
+US,United States,Retail,Feb-23,41593,0.055777778,0.057248055
+US,United States,Retail,Mar-23,51389,0.058823529,0.057808279
 US,United States,Retail,Apr-23,55073,0.052631579,0.055744295
 US,United States,Retail,May-23,49602,0.053571429,0.055008846
 US,United States,Retail,Jun-23,52557,0.046693314,0.05096544
-US,United States,Retail,Jul-23,53195,0.043478265,0.047914336
-US,United States,Retail,Aug-23,63688,0.037306394,0.042492658
-US,United States,Retail,Sep-23,55404,0.034482759,0.038422473
-US,United States,Retail,Oct-23,53547,0.038253311,0.036680821
-US,United States,Retail,Nov-23,42222,0.037037037,0.036591036
-US,United States,Retail,Dec-23,39599,0.030368906,0.035219752
-US,United States,Retail,Jan-24,45873,0.019607843,0.029004596
-US,United States,Retail,Feb-24,43509,0.017857143,0.022611297
+US,United States,Retail,Jul-23,53196,0.043478265,0.047914336
+US,United States,Retail,Aug-23,63690,0.037575751,0.042582443
+US,United States,Retail,Sep-23,55403,0.034482759,0.038512258
+US,United States,Retail,Oct-23,53550,0.038338683,0.036799064
+US,United States,Retail,Nov-23,42222,0.037037037,0.036619493
+US,United States,Retail,Dec-23,39599,0.03030303,0.03522625
+US,United States,Retail,Jan-24,45873,0.019607843,0.028982637
+US,United States,Retail,Feb-24,43509,0.017857143,0.022589339
 US,United States,Retail,Mar-24,62279,0.010101017,0.015855334
-US,United States,Retail,Apr-24,49042,0.028277637,0.018745266
-US,United States,Retail,May-24,56590,0.016420406,0.018266353
-US,United States,Retail,Jun-24,47900,0.019417476,0.021371839
-US,United States,Retail,Jul-24,48188,0.016393443,0.017410441
-US,United States,Retail,Aug-24,47513,0.021190507,0.019000475
-US,United States,Retail,Sep-24,41807,0.02307693,0.020220293
-US,United States,Retail,Oct-24,37484,0.028571429,0.024279622
-US,United States,Retail,Nov-24,36519,0.008191552,0.019946637
-US,United States,Retail,Dec-24,25000,0.01910828,0.018623753
-US,United States,Retail,Jan-25,37543,0.014705882,0.014001905
-US,United States,Retail,Feb-25,33736,0.022346435,0.018720199
-US,United States,Retail,Mar-25,39784,0.022727273,0.01992653
-US,United States,Retail,Apr-25,41159,0.016750847,0.020608185
-US,United States,Retail,May-25,42282,0.016949165,0.018809095
-US,United States,Retail,Jun-25,31820,0.023944115,0.019214709
-US,United States,Retail,Jul-25,39682,0.022727273,0.021206851
-US,United States,Retail,Aug-25,39672,0.03030303,0.025658139
-US,United States,Retail,Sep-25,35090,0.017441872,0.023490725
-US,United States,Retail,Oct-25,35762,0.024927554,0.024224152
-US,United States,Retail,Nov-25,27704,0.03125,0.024539809
+US,United States,Retail,Apr-24,49043,0.028277637,0.018745266
+US,United States,Retail,May-24,56591,0.016666667,0.01834844
+US,United States,Retail,Jun-24,47900,0.019283741,0.021409348
+US,United States,Retail,Jul-24,48190,0.016393443,0.01744795
+US,United States,Retail,Aug-24,47517,0.021276596,0.018984593
+US,United States,Retail,Sep-24,41809,0.023015484,0.020228507
+US,United States,Retail,Oct-24,37483,0.028571429,0.024287836
+US,United States,Retail,Nov-24,36519,0.008043134,0.019876682
+US,United States,Retail,Dec-24,24997,0.01910828,0.018574281
+US,United States,Retail,Jan-25,37414,0.014925373,0.014025596
+US,United States,Retail,Feb-25,33734,0.022641509,0.018891721
+US,United States,Retail,Mar-25,39789,0.022727273,0.020098052
+US,United States,Retail,Apr-25,41173,0.017857143,0.021075308
+US,United States,Retail,May-25,42289,0.016949153,0.019177856
+US,United States,Retail,Jun-25,31817,0.024083213,0.019629836
+US,United States,Retail,Jul-25,39679,0.022727273,0.021253213
+US,United States,Retail,Aug-25,39680,0.03030303,0.025704505
+US,United States,Retail,Sep-25,35075,0.017651973,0.023560759
+US,United States,Retail,Oct-25,35775,0.025028489,0.024327831
+US,United States,Retail,Nov-25,27718,0.031948883,0.024876448
+US,United States,Retail,Dec-25,25962,0.03030303,0.029093467
 US,United States,Cleaning & Sanitation,Jan-19,7976,0.047619048,NA
 US,United States,Cleaning & Sanitation,Feb-19,8385,0.049390244,NA
 US,United States,Cleaning & Sanitation,Mar-19,11670,0.043478261,0.046829184
@@ -1253,15 +1268,15 @@ US,United States,Cleaning & Sanitation,Jun-19,11194,0.041666667,0.042825956
 US,United States,Cleaning & Sanitation,Jul-19,10456,0.043364861,0.040614243
 US,United States,Cleaning & Sanitation,Aug-19,11714,0.047619048,0.044216859
 US,United States,Cleaning & Sanitation,Sep-19,8473,0.034482759,0.041822223
-US,United States,Cleaning & Sanitation,Oct-19,10717,0.030153253,0.037418353
+US,United States,Cleaning & Sanitation,Oct-19,10716,0.030153253,0.037418353
 US,United States,Cleaning & Sanitation,Nov-19,8609,0.037735849,0.034123953
 US,United States,Cleaning & Sanitation,Dec-19,7757,0.034090909,0.033993337
 US,United States,Cleaning & Sanitation,Jan-20,10968,0.023809524,0.031878761
 US,United States,Cleaning & Sanitation,Feb-20,12326,0.028571429,0.028823954
 US,United States,Cleaning & Sanitation,Mar-20,10706,0.036757809,0.029712921
-US,United States,Cleaning & Sanitation,Apr-20,6603,0.043717152,0.036348797
-US,United States,Cleaning & Sanitation,May-20,12114,0.02970297,0.036725977
-US,United States,Cleaning & Sanitation,Jun-20,16264,0.016666667,0.03002893
+US,United States,Cleaning & Sanitation,Apr-20,6602,0.043478261,0.036269166
+US,United States,Cleaning & Sanitation,May-20,12114,0.02970297,0.036646347
+US,United States,Cleaning & Sanitation,Jun-20,16264,0.016666667,0.029949299
 US,United States,Cleaning & Sanitation,Jul-20,18478,0.027536325,0.024635321
 US,United States,Cleaning & Sanitation,Aug-20,18051,0.04,0.028067664
 US,United States,Cleaning & Sanitation,Sep-20,17331,0.037037037,0.034857787
@@ -1269,64 +1284,65 @@ US,United States,Cleaning & Sanitation,Oct-20,18755,0.045540938,0.040859325
 US,United States,Cleaning & Sanitation,Nov-20,13345,0.05,0.044192658
 US,United States,Cleaning & Sanitation,Dec-20,12770,0.058823529,0.051454823
 US,United States,Cleaning & Sanitation,Jan-21,18243,0.057471264,0.055431598
-US,United States,Cleaning & Sanitation,Feb-21,20519,0.066666667,0.060987153
-US,United States,Cleaning & Sanitation,Mar-21,30031,0.065624992,0.063254308
+US,United States,Cleaning & Sanitation,Feb-21,20520,0.066666667,0.060987153
+US,United States,Cleaning & Sanitation,Mar-21,30032,0.065624992,0.063254308
 US,United States,Cleaning & Sanitation,Apr-21,28727,0.08,0.070763886
-US,United States,Cleaning & Sanitation,May-21,27482,0.10423057300000001,0.083285188
-US,United States,Cleaning & Sanitation,Jun-21,28068,0.106079544,0.096770039
-US,United States,Cleaning & Sanitation,Jul-21,26255,0.119565217,0.109958445
+US,United States,Cleaning & Sanitation,May-21,27481,0.104166667,0.083263886
+US,United States,Cleaning & Sanitation,Jun-21,28068,0.106079544,0.096748737
+US,United States,Cleaning & Sanitation,Jul-21,26256,0.119565217,0.109937143
 US,United States,Cleaning & Sanitation,Aug-21,23529,0.119565217,0.115069993
-US,United States,Cleaning & Sanitation,Sep-21,22498,0.12244898,0.120526471
-US,United States,Cleaning & Sanitation,Oct-21,22521,0.131313131,0.124442443
+US,United States,Cleaning & Sanitation,Sep-21,22497,0.12244898,0.120526471
+US,United States,Cleaning & Sanitation,Oct-21,22520,0.131313131,0.124442443
 US,United States,Cleaning & Sanitation,Nov-21,19408,0.125,0.126254037
 US,United States,Cleaning & Sanitation,Dec-21,19809,0.125,0.127104377
 US,United States,Cleaning & Sanitation,Jan-22,21130,0.130434783,0.126811594
 US,United States,Cleaning & Sanitation,Feb-22,22588,0.119047619,0.124827467
-US,United States,Cleaning & Sanitation,Mar-22,31228,0.129032258,0.126171553
-US,United States,Cleaning & Sanitation,Apr-22,29613,0.115384615,0.121154831
+US,United States,Cleaning & Sanitation,Mar-22,31229,0.129032258,0.126171553
+US,United States,Cleaning & Sanitation,Apr-22,29614,0.115384615,0.121154831
 US,United States,Cleaning & Sanitation,May-22,28030,0.104972352,0.116463075
 US,United States,Cleaning & Sanitation,Jun-22,27713,0.106382979,0.108913316
 US,United States,Cleaning & Sanitation,Jul-22,33455,0.092857156,0.101404163
-US,United States,Cleaning & Sanitation,Aug-22,39202,0.090909091,0.096716409
-US,United States,Cleaning & Sanitation,Sep-22,34558,0.079687499,0.087817916
+US,United States,Cleaning & Sanitation,Aug-22,39201,0.090909091,0.096716409
+US,United States,Cleaning & Sanitation,Sep-22,34557,0.079687499,0.087817916
 US,United States,Cleaning & Sanitation,Oct-22,29613,0.076923077,0.082506556
 US,United States,Cleaning & Sanitation,Nov-22,29982,0.071428571,0.076013049
-US,United States,Cleaning & Sanitation,Dec-22,30076,0.072082478,0.073478042
-US,United States,Cleaning & Sanitation,Jan-23,32363,0.065217391,0.069576147
+US,United States,Cleaning & Sanitation,Dec-22,30075,0.072082478,0.073478042
+US,United States,Cleaning & Sanitation,Jan-23,32364,0.065217391,0.069576147
 US,United States,Cleaning & Sanitation,Feb-23,32270,0.066666667,0.067988845
 US,United States,Cleaning & Sanitation,Mar-23,41302,0.060606061,0.064163373
 US,United States,Cleaning & Sanitation,Apr-23,38034,0.057142857,0.061471861
 US,United States,Cleaning & Sanitation,May-23,38203,0.054545455,0.057431457
-US,United States,Cleaning & Sanitation,Jun-23,36851,0.049180328,0.05362288
+US,United States,Cleaning & Sanitation,Jun-23,36848,0.049180328,0.05362288
 US,United States,Cleaning & Sanitation,Jul-23,34833,0.037735849,0.047153877
 US,United States,Cleaning & Sanitation,Aug-23,38362,0.041813349,0.042909842
 US,United States,Cleaning & Sanitation,Sep-23,32754,0.047619048,0.042389415
 US,United States,Cleaning & Sanitation,Oct-23,32174,0.040956108,0.043462835
 US,United States,Cleaning & Sanitation,Nov-23,28150,0.048310726,0.045628627
 US,United States,Cleaning & Sanitation,Dec-23,24574,0.037037037,0.04210129
-US,United States,Cleaning & Sanitation,Jan-24,28757,0.038461538,0.041269767
-US,United States,Cleaning & Sanitation,Feb-24,29524,0.038961039,0.038153205
-US,United States,Cleaning & Sanitation,Mar-24,35617,0.036231884,0.03788482
-US,United States,Cleaning & Sanitation,Apr-24,33317,0.033333333,0.036175419
-US,United States,Cleaning & Sanitation,May-24,33625,0.032258065,0.033941094
+US,United States,Cleaning & Sanitation,Jan-24,28755,0.038461538,0.041269767
+US,United States,Cleaning & Sanitation,Feb-24,29522,0.039524625,0.038341067
+US,United States,Cleaning & Sanitation,Mar-24,35617,0.036231884,0.038072683
+US,United States,Cleaning & Sanitation,Apr-24,33315,0.033333333,0.036363281
+US,United States,Cleaning & Sanitation,May-24,33624,0.032258065,0.033941094
 US,United States,Cleaning & Sanitation,Jun-24,30320,0.032258065,0.032616487
-US,United States,Cleaning & Sanitation,Jul-24,29100,0.037037037,0.033851055
-US,United States,Cleaning & Sanitation,Aug-24,31305,0.032786885,0.034027329
-US,United States,Cleaning & Sanitation,Sep-24,27081,0.032258065,0.034027329
-US,United States,Cleaning & Sanitation,Oct-24,28371,0.03125,0.032098317
-US,United States,Cleaning & Sanitation,Nov-24,22541,0.03125,0.031586022
-US,United States,Cleaning & Sanitation,Dec-24,20105,0.027027027,0.029842342
-US,United States,Cleaning & Sanitation,Jan-25,26293,0.03099024,0.029755756
-US,United States,Cleaning & Sanitation,Feb-25,25382,0.030152391,0.029389886
-US,United States,Cleaning & Sanitation,Mar-25,29167,0.028088356,0.029743662
-US,United States,Cleaning & Sanitation,Apr-25,28966,0.027777778,0.028672841
-US,United States,Cleaning & Sanitation,May-25,26934,0.029411765,0.028425966
-US,United States,Cleaning & Sanitation,Jun-25,25417,0.03125,0.029479847
-US,United States,Cleaning & Sanitation,Jul-25,28128,0.025214405,0.02862539
-US,United States,Cleaning & Sanitation,Aug-25,26788,0.025,0.027154802
-US,United States,Cleaning & Sanitation,Sep-25,23363,0.025494983,0.025236463
-US,United States,Cleaning & Sanitation,Oct-25,25903,0.02335767,0.024617551
-US,United States,Cleaning & Sanitation,Nov-25,20242,0.028433109,0.025761921
+US,United States,Cleaning & Sanitation,Jul-24,29093,0.037037037,0.033851055
+US,United States,Cleaning & Sanitation,Aug-24,31301,0.032786885,0.034027329
+US,United States,Cleaning & Sanitation,Sep-24,27085,0.032258065,0.034027329
+US,United States,Cleaning & Sanitation,Oct-24,28389,0.03125,0.032098317
+US,United States,Cleaning & Sanitation,Nov-24,22542,0.03125,0.031586022
+US,United States,Cleaning & Sanitation,Dec-24,20107,0.027027027,0.029842342
+US,United States,Cleaning & Sanitation,Jan-25,26294,0.03099024,0.029755756
+US,United States,Cleaning & Sanitation,Feb-25,25393,0.030170128,0.029395798
+US,United States,Cleaning & Sanitation,Mar-25,29170,0.02811245,0.029757606
+US,United States,Cleaning & Sanitation,Apr-25,28978,0.027777778,0.028686785
+US,United States,Cleaning & Sanitation,May-25,26936,0.029411765,0.028433997
+US,United States,Cleaning & Sanitation,Jun-25,25423,0.03125,0.029479847
+US,United States,Cleaning & Sanitation,Jul-25,28122,0.025641026,0.028767597
+US,United States,Cleaning & Sanitation,Aug-25,26793,0.025,0.027297009
+US,United States,Cleaning & Sanitation,Sep-25,23378,0.025746441,0.025462489
+US,United States,Cleaning & Sanitation,Oct-25,25924,0.023489859,0.024745433
+US,United States,Cleaning & Sanitation,Nov-25,20256,0.029140289,0.026125529
+US,United States,Cleaning & Sanitation,Dec-25,20568,0.020408163,0.024346103
 US,United States,Community & Social Service,Jan-19,6192,0.029411765,NA
 US,United States,Community & Social Service,Feb-19,5703,0.025547788,NA
 US,United States,Community & Social Service,Mar-19,7348,0.034482759,0.029814104
@@ -1334,7 +1350,7 @@ US,United States,Community & Social Service,Apr-19,7755,0.026895644,0.028975397
 US,United States,Community & Social Service,May-19,7738,0.025641026,0.029006476
 US,United States,Community & Social Service,Jun-19,7142,0.035551406,0.029362692
 US,United States,Community & Social Service,Jul-19,6844,0.031010016,0.030734149
-US,United States,Community & Social Service,Aug-19,8036,0.034545465,0.033702296
+US,United States,Community & Social Service,Aug-19,8035,0.034545465,0.033702296
 US,United States,Community & Social Service,Sep-19,5629,0.033333333,0.032962938
 US,United States,Community & Social Service,Oct-19,7235,0.027027027,0.031635275
 US,United States,Community & Social Service,Nov-19,5968,0.033333333,0.031231231
@@ -1344,155 +1360,157 @@ US,United States,Community & Social Service,Feb-20,8672,0.028856333,0.028481827
 US,United States,Community & Social Service,Mar-20,7313,0.030067211,0.030752292
 US,United States,Community & Social Service,Apr-20,5207,0.035714286,0.031545943
 US,United States,Community & Social Service,May-20,6988,0.020639835,0.028807111
-US,United States,Community & Social Service,Jun-20,8358,0.006247837,0.020867319
-US,United States,Community & Social Service,Jul-20,9602,0.032522475,0.019803382
-US,United States,Community & Social Service,Aug-20,10129,0.034078123,0.024282811
+US,United States,Community & Social Service,Jun-20,8357,0.00625,0.02086804
+US,United States,Community & Social Service,Jul-20,9602,0.032522475,0.019804103
+US,United States,Community & Social Service,Aug-20,10129,0.034078123,0.024283533
 US,United States,Community & Social Service,Sep-20,10507,0.022222222,0.029607607
 US,United States,Community & Social Service,Oct-20,12155,0.028571429,0.028290591
 US,United States,Community & Social Service,Nov-20,9019,0.027027027,0.025940226
 US,United States,Community & Social Service,Dec-20,9429,0.026315789,0.027304748
 US,United States,Community & Social Service,Jan-21,12548,0.037037037,0.030126618
 US,United States,Community & Social Service,Feb-21,13062,0.031551706,0.031634844
-US,United States,Community & Social Service,Mar-21,16906,0.03125,0.033279581
+US,United States,Community & Social Service,Mar-21,16905,0.03125,0.033279581
 US,United States,Community & Social Service,Apr-21,15440,0.041666667,0.034822791
 US,United States,Community & Social Service,May-21,16429,0.058823529,0.043913399
 US,United States,Community & Social Service,Jun-21,16449,0.061216979,0.053902392
-US,United States,Community & Social Service,Jul-21,16910,0.064814815,0.061618441
-US,United States,Community & Social Service,Aug-21,15360,0.065999985,0.064010593
-US,United States,Community & Social Service,Sep-21,15463,0.064665472,0.06516009
-US,United States,Community & Social Service,Oct-21,16042,0.063002295,0.064555917
+US,United States,Community & Social Service,Jul-21,16910,0.064927733,0.061656081
+US,United States,Community & Social Service,Aug-21,15361,0.065701961,0.063948891
+US,United States,Community & Social Service,Sep-21,15464,0.064665472,0.065098388
+US,United States,Community & Social Service,Oct-21,16040,0.063002295,0.064456576
 US,United States,Community & Social Service,Nov-21,13838,0.07348787,0.067051879
-US,United States,Community & Social Service,Dec-21,15616,0.08,0.072163388
-US,United States,Community & Social Service,Jan-22,17093,0.079365079,0.07761765
-US,United States,Community & Social Service,Feb-22,18120,0.083333333,0.080899471
+US,United States,Community & Social Service,Dec-21,15617,0.080037737,0.072175967
+US,United States,Community & Social Service,Jan-22,17093,0.079365079,0.077630229
+US,United States,Community & Social Service,Feb-22,18120,0.083333333,0.08091205
 US,United States,Community & Social Service,Mar-22,24377,0.082949693,0.081882702
 US,United States,Community & Social Service,Apr-22,23259,0.083333333,0.083205453
 US,United States,Community & Social Service,May-22,22119,0.072222222,0.079501749
-US,United States,Community & Social Service,Jun-22,21985,0.075513627,0.077023061
-US,United States,Community & Social Service,Jul-22,29454,0.076336564,0.074690804
-US,United States,Community & Social Service,Aug-22,34538,0.078346121,0.076732104
-US,United States,Community & Social Service,Sep-22,30448,0.075900465,0.07686105
-US,United States,Community & Social Service,Oct-22,26723,0.071428571,0.075225052
-US,United States,Community & Social Service,Nov-22,29065,0.071428571,0.072919202
-US,United States,Community & Social Service,Dec-22,31563,0.071428571,0.071428571
+US,United States,Community & Social Service,Jun-22,21984,0.07538215,0.076979235
+US,United States,Community & Social Service,Jul-22,29454,0.076336564,0.074646979
+US,United States,Community & Social Service,Aug-22,34539,0.078221372,0.076646695
+US,United States,Community & Social Service,Sep-22,30447,0.075900465,0.076819467
+US,United States,Community & Social Service,Oct-22,26732,0.071428571,0.075183469
+US,United States,Community & Social Service,Nov-22,29064,0.071428571,0.072919202
+US,United States,Community & Social Service,Dec-22,31561,0.071428571,0.071428571
 US,United States,Community & Social Service,Jan-23,36590,0.074497604,0.072451582
-US,United States,Community & Social Service,Feb-23,36817,0.066892648,0.070939608
+US,United States,Community & Social Service,Feb-23,36818,0.066892648,0.070939608
 US,United States,Community & Social Service,Mar-23,44883,0.071428571,0.070939608
-US,United States,Community & Social Service,Apr-23,40761,0.06612672,0.068149313
-US,United States,Community & Social Service,May-23,40245,0.069671883,0.069075725
-US,United States,Community & Social Service,Jun-23,39389,0.063027651,0.066275418
-US,United States,Community & Social Service,Jul-23,40180,0.05508053,0.062593355
-US,United States,Community & Social Service,Aug-23,46941,0.051546392,0.056551524
-US,United States,Community & Social Service,Sep-23,41089,0.057420261,0.054682394
+US,United States,Community & Social Service,Apr-23,40760,0.066076667,0.068132629
+US,United States,Community & Social Service,May-23,40245,0.069671883,0.06905904
+US,United States,Community & Social Service,Jun-23,39389,0.063027651,0.066258734
+US,United States,Community & Social Service,Jul-23,40178,0.054999987,0.062566507
+US,United States,Community & Social Service,Aug-23,46940,0.051546392,0.056524676
+US,United States,Community & Social Service,Sep-23,41089,0.057420261,0.054655546
 US,United States,Community & Social Service,Oct-23,39468,0.05,0.052988884
-US,United States,Community & Social Service,Nov-23,38564,0.052631579,0.053350613
-US,United States,Community & Social Service,Dec-23,35923,0.046052632,0.049561404
-US,United States,Community & Social Service,Jan-24,43678,0.037037037,0.045240416
-US,United States,Community & Social Service,Feb-24,43955,0.041666667,0.041585445
-US,United States,Community & Social Service,Mar-24,48388,0.036881814,0.038528506
-US,United States,Community & Social Service,Apr-24,43906,0.034482759,0.03767708
-US,United States,Community & Social Service,May-24,43480,0.037113032,0.036159201
-US,United States,Community & Social Service,Jun-24,40243,0.039861514,0.037152435
-US,United States,Community & Social Service,Jul-24,40566,0.038945268,0.038639938
-US,United States,Community & Social Service,Aug-24,44596,0.038888905,0.039231896
-US,United States,Community & Social Service,Sep-24,36531,0.037735849,0.038523341
-US,United States,Community & Social Service,Oct-24,38782,0.037037037,0.037887264
+US,United States,Community & Social Service,Nov-23,38566,0.052631579,0.053350613
+US,United States,Community & Social Service,Dec-23,35925,0.046052632,0.049561404
+US,United States,Community & Social Service,Jan-24,43676,0.037037037,0.045240416
+US,United States,Community & Social Service,Feb-24,43956,0.041666683,0.041585451
+US,United States,Community & Social Service,Mar-24,48390,0.03672659,0.03847677
+US,United States,Community & Social Service,Apr-24,43908,0.034482759,0.037625344
+US,United States,Community & Social Service,May-24,43479,0.037161881,0.036123743
+US,United States,Community & Social Service,Jun-24,40243,0.039922193,0.037188944
+US,United States,Community & Social Service,Jul-24,40559,0.038961039,0.038681704
+US,United States,Community & Social Service,Aug-24,44594,0.038961039,0.039281424
+US,United States,Community & Social Service,Sep-24,36530,0.037735849,0.038552642
+US,United States,Community & Social Service,Oct-24,38788,0.037037037,0.037911308
 US,United States,Community & Social Service,Nov-24,34056,0.037037037,0.037269974
-US,United States,Community & Social Service,Dec-24,30101,0.035012051,0.036362042
-US,United States,Community & Social Service,Jan-25,40953,0.033027535,0.035025541
-US,United States,Community & Social Service,Feb-25,35850,0.03983066,0.035956749
-US,United States,Community & Social Service,Mar-25,40492,0.03181428,0.034890825
-US,United States,Community & Social Service,Apr-25,40190,0.029411765,0.033685568
-US,United States,Community & Social Service,May-25,37298,0.033759899,0.031661981
-US,United States,Community & Social Service,Jun-25,31757,0.033571425,0.032247696
-US,United States,Community & Social Service,Jul-25,36162,0.024390244,0.030573856
-US,United States,Community & Social Service,Aug-25,36527,0.025,0.02765389
-US,United States,Community & Social Service,Sep-25,31370,0.030909091,0.026766445
-US,United States,Community & Social Service,Oct-25,35259,0.024102857,0.026670649
-US,United States,Community & Social Service,Nov-25,28736,0.018817142,0.024609697
-US,United States,Therapy,Jan-19,3105,0.010670103,NA
+US,United States,Community & Social Service,Dec-24,30115,0.035012051,0.036362042
+US,United States,Community & Social Service,Jan-25,40963,0.033112583,0.03505389
+US,United States,Community & Social Service,Feb-25,35850,0.039826203,0.035983612
+US,United States,Community & Social Service,Mar-25,40512,0.03208049,0.035006425
+US,United States,Community & Social Service,Apr-25,40196,0.029411765,0.033772819
+US,United States,Community & Social Service,May-25,37302,0.033624616,0.031705623
+US,United States,Community & Social Service,Jun-25,31766,0.034149977,0.032395453
+US,United States,Community & Social Service,Jul-25,36161,0.02464199,0.030805528
+US,United States,Community & Social Service,Aug-25,36536,0.025,0.027930656
+US,United States,Community & Social Service,Sep-25,31383,0.031053799,0.026898596
+US,United States,Community & Social Service,Oct-25,35276,0.024813896,0.026955899
+US,United States,Community & Social Service,Nov-25,28812,0.019245755,0.025037817
+US,United States,Community & Social Service,Dec-25,29152,0.017391304,0.020483652
+US,United States,Therapy,Jan-19,3104,0.010670103,NA
 US,United States,Therapy,Feb-19,2811,0.032258065,NA
-US,United States,Therapy,Mar-19,3961,0.022727273,0.021885147
+US,United States,Therapy,Mar-19,3964,0.022727273,0.021885147
 US,United States,Therapy,Apr-19,3980,0.007727849,0.020904395
 US,United States,Therapy,May-19,4690,0.018648248,0.01636779
 US,United States,Therapy,Jun-19,3407,0.009980106,0.012118734
-US,United States,Therapy,Jul-19,3510,0.010182342,0.012936899
-US,United States,Therapy,Aug-19,4185,0.019607971,0.013256806
-US,United States,Therapy,Sep-19,2933,0.020204082,0.016664798
+US,United States,Therapy,Jul-19,3511,0.009898863,0.012842406
+US,United States,Therapy,Aug-19,4185,0.019607971,0.013162313
+US,United States,Therapy,Sep-19,2933,0.020204082,0.016570305
 US,United States,Therapy,Oct-19,4292,0.004004096,0.014605383
 US,United States,Therapy,Nov-19,3736,0.027777778,0.017328652
 US,United States,Therapy,Dec-19,3512,0,0.010593958
 US,United States,Therapy,Jan-20,5730,0.0088632,0.012213659
 US,United States,Therapy,Feb-20,5662,0,0.0029544
-US,United States,Therapy,Mar-20,3954,0,0.0029544
+US,United States,Therapy,Mar-20,3955,0,0.0029544
 US,United States,Therapy,Apr-20,2302,0,0
 US,United States,Therapy,May-20,4205,0,0
 US,United States,Therapy,Jun-20,5144,0.011627907,0.003875969
 US,United States,Therapy,Jul-20,5720,0.024404762,0.01201089
-US,United States,Therapy,Aug-20,6372,0.011764706,0.015932458
-US,United States,Therapy,Sep-20,7219,0.008075,0.014748156
-US,United States,Therapy,Oct-20,8720,0.027272727,0.015704144
+US,United States,Therapy,Aug-20,6373,0.011764706,0.015932458
+US,United States,Therapy,Sep-20,7220,0.008075,0.014748156
+US,United States,Therapy,Oct-20,8721,0.027272727,0.015704144
 US,United States,Therapy,Nov-20,7123,0,0.011782576
 US,United States,Therapy,Dec-20,7133,0.027339855,0.018204194
 US,United States,Therapy,Jan-21,9442,0.015873016,0.01440429
 US,United States,Therapy,Feb-21,10080,0.025641026,0.022951299
 US,United States,Therapy,Mar-21,12656,0.041381279,0.027631773
-US,United States,Therapy,Apr-21,11241,0.05,0.039007435
+US,United States,Therapy,Apr-21,11242,0.05,0.039007435
 US,United States,Therapy,May-21,13337,0.054318489,0.048566589
 US,United States,Therapy,Jun-21,13522,0.051800003,0.052039497
-US,United States,Therapy,Jul-21,13906,0.048497347,0.051538613
+US,United States,Therapy,Jul-21,13907,0.048497347,0.051538613
 US,United States,Therapy,Aug-21,11697,0.061835318,0.054044223
-US,United States,Therapy,Sep-21,12391,0.064042286,0.058124984
-US,United States,Therapy,Oct-21,14063,0.057933846,0.061270483
-US,United States,Therapy,Nov-21,13038,0.049382716,0.057119616
-US,United States,Therapy,Dec-21,14260,0.048463878,0.051926813
-US,United States,Therapy,Jan-22,15067,0.069767442,0.055871345
+US,United States,Therapy,Sep-21,12395,0.064254784,0.058195816
+US,United States,Therapy,Oct-21,14063,0.057933846,0.061341316
+US,United States,Therapy,Nov-21,13038,0.049180328,0.057122986
+US,United States,Therapy,Dec-21,14260,0.048463878,0.051859351
+US,United States,Therapy,Jan-22,15067,0.069767442,0.055803882
 US,United States,Therapy,Feb-22,16195,0.058823529,0.059018283
-US,United States,Therapy,Mar-22,20340,0.05,0.059530324
-US,United States,Therapy,Apr-22,19596,0.060606061,0.05647653
-US,United States,Therapy,May-22,19550,0.049180328,0.053262129
+US,United States,Therapy,Mar-22,20341,0.05,0.059530324
+US,United States,Therapy,Apr-22,19598,0.060606061,0.05647653
+US,United States,Therapy,May-22,19551,0.049180328,0.053262129
 US,United States,Therapy,Jun-22,20010,0.05,0.053262129
-US,United States,Therapy,Jul-22,27287,0.057142857,0.052107728
-US,United States,Therapy,Aug-22,34509,0.050252525,0.052465127
-US,United States,Therapy,Sep-22,29856,0.048387097,0.051927493
-US,United States,Therapy,Oct-22,26978,0.044176707,0.047605443
+US,United States,Therapy,Jul-22,27289,0.057358508,0.052179612
+US,United States,Therapy,Aug-22,34510,0.05,0.052452836
+US,United States,Therapy,Sep-22,29857,0.048387097,0.051915202
+US,United States,Therapy,Oct-22,26977,0.044176707,0.047521268
 US,United States,Therapy,Nov-22,33471,0.046123015,0.04622894
-US,United States,Therapy,Dec-22,35775,0.058823529,0.049707751
+US,United States,Therapy,Dec-22,35777,0.058823529,0.049707751
 US,United States,Therapy,Jan-23,40155,0.05,0.051648848
 US,United States,Therapy,Feb-23,40348,0.05138202,0.05340185
-US,United States,Therapy,Mar-23,52110,0.051064754,0.050815591
-US,United States,Therapy,Apr-23,45840,0.05,0.050815591
-US,United States,Therapy,May-23,48119,0.051724138,0.050929631
-US,United States,Therapy,Jun-23,47620,0.043478261,0.0484008
-US,United States,Therapy,Jul-23,49397,0.05,0.0484008
-US,United States,Therapy,Aug-23,55812,0.047619048,0.047032436
+US,United States,Therapy,Mar-23,52119,0.051282051,0.050888024
+US,United States,Therapy,Apr-23,45841,0.05,0.050888024
+US,United States,Therapy,May-23,48120,0.051503095,0.050928382
+US,United States,Therapy,Jun-23,47620,0.043478261,0.048327118
+US,United States,Therapy,Jul-23,49396,0.05,0.048327118
+US,United States,Therapy,Aug-23,55814,0.047619048,0.047032436
 US,United States,Therapy,Sep-23,52341,0.045454545,0.047691198
 US,United States,Therapy,Oct-23,53550,0.048780488,0.047284694
-US,United States,Therapy,Nov-23,54548,0.037358912,0.043864648
-US,United States,Therapy,Dec-23,53299,0.032915901,0.0396851
-US,United States,Therapy,Jan-24,58794,0.032258065,0.034177626
-US,United States,Therapy,Feb-24,60132,0.02633405,0.030502672
+US,United States,Therapy,Nov-23,54549,0.037358912,0.043864648
+US,United States,Therapy,Dec-23,53300,0.032915901,0.0396851
+US,United States,Therapy,Jan-24,58792,0.032258065,0.034177626
+US,United States,Therapy,Feb-24,60133,0.02633405,0.030502672
 US,United States,Therapy,Mar-24,67692,0.02173913,0.026777082
 US,United States,Therapy,Apr-24,59841,0.028571429,0.025548203
-US,United States,Therapy,May-24,59949,0.028616924,0.026309161
-US,United States,Therapy,Jun-24,53296,0.031578947,0.0295891
-US,United States,Therapy,Jul-24,52811,0.022107801,0.027434558
-US,United States,Therapy,Aug-24,59043,0.023255814,0.025647521
-US,United States,Therapy,Sep-24,53279,0.028968409,0.024777341
-US,United States,Therapy,Oct-24,55634,0.022222222,0.024815482
-US,United States,Therapy,Nov-24,50208,0.026830522,0.026007051
-US,United States,Therapy,Dec-24,48007,0.024390244,0.024480996
-US,United States,Therapy,Jan-25,57191,0.023176378,0.024799048
-US,United States,Therapy,Feb-25,48922,0.021431383,0.022999335
-US,United States,Therapy,Mar-25,54063,0.021406728,0.02200483
-US,United States,Therapy,Apr-25,54177,0.020979021,0.021272377
-US,United States,Therapy,May-25,53464,0.025227273,0.022537674
-US,United States,Therapy,Jun-25,47777,0.022556391,0.022920895
-US,United States,Therapy,Jul-25,53041,0.023809524,0.023864396
-US,United States,Therapy,Aug-25,53563,0.021126804,0.022497573
-US,United States,Therapy,Sep-25,48760,0.02078594,0.021907422
-US,United States,Therapy,Oct-25,53982,0.021276596,0.021063113
-US,United States,Therapy,Nov-25,52534,0.02173913,0.021267222
+US,United States,Therapy,May-24,59947,0.02866242,0.026324326
+US,United States,Therapy,Jun-24,53297,0.031578947,0.029604265
+US,United States,Therapy,Jul-24,52814,0.0219914,0.027410923
+US,United States,Therapy,Aug-24,59051,0.023342613,0.025637654
+US,United States,Therapy,Sep-24,53283,0.028968409,0.024767474
+US,United States,Therapy,Oct-24,55628,0.021980676,0.024763899
+US,United States,Therapy,Nov-24,50216,0.026975052,0.025974712
+US,United States,Therapy,Dec-24,48016,0.024418629,0.024458119
+US,United States,Therapy,Jan-25,57193,0.023255814,0.024883165
+US,United States,Therapy,Feb-25,48938,0.021276596,0.022983679
+US,United States,Therapy,Mar-25,54106,0.021406728,0.021979713
+US,United States,Therapy,Apr-25,54191,0.020906177,0.0211965
+US,United States,Therapy,May-25,53470,0.025454545,0.02258915
+US,United States,Therapy,Jun-25,47786,0.022641832,0.023000851
+US,United States,Therapy,Jul-25,53049,0.023809524,0.023968634
+US,United States,Therapy,Aug-25,53571,0.021304965,0.02258544
+US,United States,Therapy,Sep-25,48769,0.020833333,0.021982607
+US,United States,Therapy,Oct-25,54027,0.021304965,0.021147754
+US,United States,Therapy,Nov-25,52613,0.02181847,0.021318923
+US,United States,Therapy,Dec-25,48112,0.021880332,0.021667922
 US,United States,Loading & Stocking,Jan-19,3978,0.044949495,NA
 US,United States,Loading & Stocking,Feb-19,4031,0.038461538,NA
 US,United States,Loading & Stocking,Mar-19,5936,0.043478261,0.042296431
@@ -1522,16 +1540,16 @@ US,United States,Loading & Stocking,Feb-21,12143,0.068965517,0.06206263
 US,United States,Loading & Stocking,Mar-21,17814,0.071428598,0.069020261
 US,United States,Loading & Stocking,Apr-21,18297,0.075513196,0.071969104
 US,United States,Loading & Stocking,May-21,17718,0.107142857,0.084694884
-US,United States,Loading & Stocking,Jun-21,18821,0.111111111,0.097922388
+US,United States,Loading & Stocking,Jun-21,18820,0.111111111,0.097922388
 US,United States,Loading & Stocking,Jul-21,18438,0.111111111,0.10978836
 US,United States,Loading & Stocking,Aug-21,17197,0.102362221,0.108194815
 US,United States,Loading & Stocking,Sep-21,16823,0.105691057,0.10638813
 US,United States,Loading & Stocking,Oct-21,17416,0.106382979,0.104812086
-US,United States,Loading & Stocking,Nov-21,13551,0.111590038,0.107888025
-US,United States,Loading & Stocking,Dec-21,13636,0.107491864,0.108488294
-US,United States,Loading & Stocking,Jan-22,15069,0.112302635,0.110461512
-US,United States,Loading & Stocking,Feb-22,15194,0.109375,0.109723166
-US,United States,Loading & Stocking,Mar-22,21513,0.111111111,0.110929582
+US,United States,Loading & Stocking,Nov-21,13551,0.111111111,0.107728382
+US,United States,Loading & Stocking,Dec-21,13636,0.107491864,0.108328651
+US,United States,Loading & Stocking,Jan-22,15069,0.112302635,0.11030187
+US,United States,Loading & Stocking,Feb-22,15195,0.109375,0.109723166
+US,United States,Loading & Stocking,Mar-22,21514,0.111111111,0.110929582
 US,United States,Loading & Stocking,Apr-22,20692,0.103124976,0.107870362
 US,United States,Loading & Stocking,May-22,18939,0.082731802,0.098989296
 US,United States,Loading & Stocking,Jun-22,19596,0.08,0.088618926
@@ -1543,36 +1561,37 @@ US,United States,Loading & Stocking,Nov-22,20463,0.0625,0.063172043
 US,United States,Loading & Stocking,Dec-22,19061,0.056578105,0.060526035
 US,United States,Loading & Stocking,Jan-23,21180,0.055555556,0.05821122
 US,United States,Loading & Stocking,Feb-23,19697,0.05392858,0.05535408
-US,United States,Loading & Stocking,Mar-23,25502,0.056179775,0.055221303
-US,United States,Loading & Stocking,Apr-23,23986,0.048966555,0.05302497
-US,United States,Loading & Stocking,May-23,23362,0.042857143,0.049334491
+US,United States,Loading & Stocking,Mar-23,25501,0.056603397,0.055362511
+US,United States,Loading & Stocking,Apr-23,23986,0.048966555,0.053166177
+US,United States,Loading & Stocking,May-23,23362,0.042857143,0.049475698
 US,United States,Loading & Stocking,Jun-23,23936,0.045454545,0.045759415
 US,United States,Loading & Stocking,Jul-23,22515,0.046589125,0.044966938
-US,United States,Loading & Stocking,Aug-23,25509,0.037464787,0.043169486
+US,United States,Loading & Stocking,Aug-23,25508,0.037464787,0.043169486
 US,United States,Loading & Stocking,Sep-23,22763,0.0390625,0.041038804
 US,United States,Loading & Stocking,Oct-23,21842,0.03577237,0.037433219
 US,United States,Loading & Stocking,Nov-23,19214,0.042857143,0.039230671
-US,United States,Loading & Stocking,Dec-23,15537,0.044776119,0.041135211
+US,United States,Loading & Stocking,Dec-23,15536,0.044776119,0.041135211
 US,United States,Loading & Stocking,Jan-24,18165,0.037037037,0.041556766
 US,United States,Loading & Stocking,Feb-24,18473,0.032912581,0.038241913
-US,United States,Loading & Stocking,Mar-24,21033,0.031207588,0.033719069
-US,United States,Loading & Stocking,Apr-24,21639,0.034965035,0.033028401
-US,United States,Loading & Stocking,May-24,21321,0.033868332,0.033346985
-US,United States,Loading & Stocking,Jun-24,19258,0.033007345,0.033946904
-US,United States,Loading & Stocking,Jul-24,18592,0.029411765,0.032095814
-US,United States,Loading & Stocking,Aug-24,20711,0.03200002,0.031473043
-US,United States,Loading & Stocking,Sep-24,17696,0.028571429,0.029994405
-US,United States,Loading & Stocking,Oct-24,17755,0.02664414,0.029071863
-US,United States,Loading & Stocking,Nov-24,14029,0.020548912,0.025254827
-US,United States,Loading & Stocking,Dec-24,11759,0.014495798,0.02056295
-US,United States,Loading & Stocking,Jan-25,18155,0.02414784,0.01973085
-US,United States,Loading & Stocking,Feb-25,18746,0.027777778,0.022140472
-US,United States,Loading & Stocking,Mar-25,19071,0.024629328,0.025518315
-US,United States,Loading & Stocking,Apr-25,17807,0.019354839,0.023920648
-US,United States,Loading & Stocking,May-25,16836,0.018335535,0.020773234
-US,United States,Loading & Stocking,Jun-25,15468,0.019664967,0.019118447
-US,United States,Loading & Stocking,Jul-25,17263,0.019736842,0.019245781
-US,United States,Loading & Stocking,Aug-25,17999,0.025495691,0.0216325
-US,United States,Loading & Stocking,Sep-25,14897,0.027777778,0.02433677
-US,United States,Loading & Stocking,Oct-25,16017,0.026315789,0.026529753
-US,United States,Loading & Stocking,Nov-25,12051,0.023809524,0.025967697
+US,United States,Loading & Stocking,Mar-24,21032,0.031207588,0.033719069
+US,United States,Loading & Stocking,Apr-24,21638,0.035294118,0.033138096
+US,United States,Loading & Stocking,May-24,21323,0.033868332,0.033456679
+US,United States,Loading & Stocking,Jun-24,19261,0.033333333,0.034165261
+US,United States,Loading & Stocking,Jul-24,18595,0.029411765,0.032204477
+US,United States,Loading & Stocking,Aug-24,20710,0.03200002,0.031581706
+US,United States,Loading & Stocking,Sep-24,17695,0.028571429,0.029994405
+US,United States,Loading & Stocking,Oct-24,17756,0.026666667,0.029079372
+US,United States,Loading & Stocking,Nov-24,14029,0.020548912,0.025262336
+US,United States,Loading & Stocking,Dec-24,11759,0.014285714,0.020500431
+US,United States,Loading & Stocking,Jan-25,18151,0.02414784,0.019660822
+US,United States,Loading & Stocking,Feb-25,18745,0.027777778,0.022070444
+US,United States,Loading & Stocking,Mar-25,19068,0.024390244,0.025438621
+US,United States,Loading & Stocking,Apr-25,17803,0.019374996,0.023847673
+US,United States,Loading & Stocking,May-25,16833,0.019721012,0.021162084
+US,United States,Loading & Stocking,Jun-25,15468,0.019667605,0.019587871
+US,United States,Loading & Stocking,Jul-25,17266,0.01849369,0.019294103
+US,United States,Loading & Stocking,Aug-25,17998,0.025316456,0.02115925
+US,United States,Loading & Stocking,Sep-25,14898,0.027777778,0.023862641
+US,United States,Loading & Stocking,Oct-25,16023,0.026315789,0.026470008
+US,United States,Loading & Stocking,Nov-25,12074,0.024390244,0.02616127
+US,United States,Loading & Stocking,Dec-25,11100,0.025641026,0.02544902
